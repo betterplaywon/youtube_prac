@@ -1,0 +1,1728 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Rzo6w2x6L1CdH4l4r1CVnHR1_sg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "s8DZaholk3U2Ao1Zq5tC2yx77mc",
+      "id": "YOHpmBsDceU",
+      "snippet": {
+        "publishedAt": "2023-03-11T05:34:20Z",
+        "channelId": "UC8-Th83bH_thdKZDJCrn88g",
+        "title": "Shakira: Bzrp Music Sessions, Vol. 53 | The Tonight Show Starring Jimmy Fallon",
+        "description": "Musical guests Bizarrap and Shakira perform \"Shakira: Bzrp Music Sessions, Vol. 53\" for The Tonight Show.\n\nThe Tonight Show Starring Jimmy Fallon.  Stream now on Peacock: https://bit.ly/3gZJaNy\n\nSubscribe NOW to The Tonight Show Starring Jimmy Fallon: https://pck.tv/3d7lcDy\n \nWatch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c\n \nGet more The Tonight Show Starring Jimmy Fallon: https://www.nbc.com/the-tonight-show\n \nJIMMY FALLON ON SOCIAL\nFollow Jimmy: http://Twitter.com/JimmyFallon\nLike Jimmy: https://Facebook.com/JimmyFallon\nFollow Jimmy: https://www.instagram.com/jimmyfallon/\n \nTHE TONIGHT SHOW ON SOCIAL\nFollow The Tonight Show: http://Twitter.com/FallonTonight\nLike The Tonight Show: https://Facebook.com/FallonTonight\nFollow The Tonight Show: https://www.instagram.com/fallontonight/\nTonight Show Tumblr: http://fallontonight.tumblr.com\n \nThe Tonight Show Starring Jimmy Fallon features hilarious highlights from the show, including comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.\n \nGET MORE NBC\nNBC YouTube: http://bit.ly/1dM1qBH\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Instagram: http://instagram.com/nbc\nNBC Tumblr: http://nbctv.tumblr.com/\n \nShakira: Bzrp Music Sessions, Vol. 53 | The Tonight Show Starring Jimmy Fallon\nhttp://www.youtube.com/fallontonight\n\n#FallonTonight \n#Shakira\n#Bizarrap",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YOHpmBsDceU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YOHpmBsDceU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YOHpmBsDceU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YOHpmBsDceU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YOHpmBsDceU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Tonight Show Starring Jimmy Fallon",
+        "tags": [
+          "tonight show",
+          "jimmy fallon",
+          "NBC",
+          "NBC TV",
+          "Television",
+          "Funny",
+          "Talk Show",
+          "comedic",
+          "humor",
+          "snl",
+          "tonight",
+          "show",
+          "jokes",
+          "funny video",
+          "interview",
+          "variety",
+          "comedy sketches",
+          "talent",
+          "celebrities",
+          "video",
+          "clip",
+          "highlight",
+          "Dancing With Myself",
+          "The Voice",
+          "Te Felicito",
+          "Don't Wait Up",
+          "Girl like Me",
+          "Me Gusta",
+          "Nada",
+          "Clandestino",
+          "Trap",
+          "Perro Fiel",
+          "Me Enamoré",
+          "Bizarrap",
+          "Shakira",
+          "Shakira: Bzrp Music Sessions",
+          "shakira performance",
+          "bizarrap performance",
+          "Shakira on Tonight Show",
+          "Bizarrap on Tonight Show"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Shakira: Bzrp Music Sessions, Vol. 53 | The Tonight Show Starring Jimmy Fallon",
+          "description": "Musical guests Bizarrap and Shakira perform \"Shakira: Bzrp Music Sessions, Vol. 53\" for The Tonight Show.\n\nThe Tonight Show Starring Jimmy Fallon.  Stream now on Peacock: https://bit.ly/3gZJaNy\n\nSubscribe NOW to The Tonight Show Starring Jimmy Fallon: https://pck.tv/3d7lcDy\n \nWatch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c\n \nGet more The Tonight Show Starring Jimmy Fallon: https://www.nbc.com/the-tonight-show\n \nJIMMY FALLON ON SOCIAL\nFollow Jimmy: http://Twitter.com/JimmyFallon\nLike Jimmy: https://Facebook.com/JimmyFallon\nFollow Jimmy: https://www.instagram.com/jimmyfallon/\n \nTHE TONIGHT SHOW ON SOCIAL\nFollow The Tonight Show: http://Twitter.com/FallonTonight\nLike The Tonight Show: https://Facebook.com/FallonTonight\nFollow The Tonight Show: https://www.instagram.com/fallontonight/\nTonight Show Tumblr: http://fallontonight.tumblr.com\n \nThe Tonight Show Starring Jimmy Fallon features hilarious highlights from the show, including comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.\n \nGET MORE NBC\nNBC YouTube: http://bit.ly/1dM1qBH\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Instagram: http://instagram.com/nbc\nNBC Tumblr: http://nbctv.tumblr.com/\n \nShakira: Bzrp Music Sessions, Vol. 53 | The Tonight Show Starring Jimmy Fallon\nhttp://www.youtube.com/fallontonight\n\n#FallonTonight \n#Shakira\n#Bizarrap"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vWgs_2UvqaYGgV2euZLVo6RSqqM",
+      "id": "cG22jPC9J_0",
+      "snippet": {
+        "publishedAt": "2023-03-11T15:03:33Z",
+        "channelId": "UCnmGIkw-KdI0W5siakKPKog",
+        "title": "I Survived the World's Loneliest Job",
+        "description": "so lonely :(",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cG22jPC9J_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cG22jPC9J_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cG22jPC9J_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cG22jPC9J_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cG22jPC9J_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ryan Trahan",
+        "tags": [
+          "Ryan",
+          "Trahan",
+          "I survived the world's loneliest job",
+          "lonely",
+          "lonely job",
+          "I survived",
+          "lonely house"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Survived the World's Loneliest Job",
+          "description": "so lonely :("
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gfGX0aGVdrdfXpVyY2LoLPvqmDQ",
+      "id": "jyBMcHzHz04",
+      "snippet": {
+        "publishedAt": "2023-03-11T16:00:20Z",
+        "channelId": "UCZpRTwgtk1H0cUAWrHZ1gzg",
+        "title": "Stranded 100 Hours in a Survival Bunker",
+        "description": "ULTIMATE 100 HOURS BUNKER SURVIVAL!\nBUY OUR COFFEE! ► https://keepyuppy.coffee\n\n\nCHECK OUT OUR MERCH! ► https://jstushop.com\n\n\nFollow us on INSTAGRAM!\n⚡️Justin - https://www.instagram.com/itsjustinstuart\n⚡️Andrew - https://www.instagram.com/andrewscites \n\n\n----------------------------------------­­­­­­­­---------------------------------­-­-­-­-­-\nOur motto on this channel is LAUGH DAILY! Why is this our motto? Because we believe in the importance of laughing daily, we strive to bring joy to people's lives by watching our content. \n\"A joyful heart is good medicine, but a crushed spirit dries up the bones.\"  Proverbs 17:22  We love this verse and it is the driving force behind our videos and why we do what we do! \n\n----------------------------------------­­­­­­­­---------------------------------­-­-­-­-­-\n• Contact (Business Only) : jstu@delkatalents.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jyBMcHzHz04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jyBMcHzHz04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jyBMcHzHz04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jyBMcHzHz04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jyBMcHzHz04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JStu",
+        "tags": [
+          "jstu",
+          "jstu survival",
+          "overnight survival",
+          "survival challenge",
+          "100 hours survival",
+          "bunker survival",
+          "bunker build",
+          "surviving 100 hours in a bunker",
+          "morejstu",
+          "storage trailer survival bunker",
+          "storage trailer bunker",
+          "morejstu bunker",
+          "bunker",
+          "survival bunker",
+          "storage bunker",
+          "survival",
+          "storage tank",
+          "fort",
+          "forts",
+          "bunkers",
+          "hidden",
+          "secret",
+          "cool"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Stranded 100 Hours in a Survival Bunker",
+          "description": "ULTIMATE 100 HOURS BUNKER SURVIVAL!\nBUY OUR COFFEE! ► https://keepyuppy.coffee\n\n\nCHECK OUT OUR MERCH! ► https://jstushop.com\n\n\nFollow us on INSTAGRAM!\n⚡️Justin - https://www.instagram.com/itsjustinstuart\n⚡️Andrew - https://www.instagram.com/andrewscites \n\n\n----------------------------------------­­­­­­­­---------------------------------­-­-­-­-­-\nOur motto on this channel is LAUGH DAILY! Why is this our motto? Because we believe in the importance of laughing daily, we strive to bring joy to people's lives by watching our content. \n\"A joyful heart is good medicine, but a crushed spirit dries up the bones.\"  Proverbs 17:22  We love this verse and it is the driving force behind our videos and why we do what we do! \n\n----------------------------------------­­­­­­­­---------------------------------­-­-­-­-­-\n• Contact (Business Only) : jstu@delkatalents.com"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nDiM0w_HOi-TpIXmNOrS1aA3jjw",
+      "id": "VKuptGDuFxk",
+      "snippet": {
+        "publishedAt": "2023-03-11T15:15:09Z",
+        "channelId": "UCU3Q7YbKNK6yTsG-g7v-5Ug",
+        "title": "Black Belt in 24 Hour Challenge! Surprise Ending! Daughters vs Dads",
+        "description": "My Daughter Payton and I trained Salish and Jordan Matter to become Black Belts in 24 hours! See Payton and Salish get Transformed into Wednesday Addams. Jenna Ortega would be impressed. https://youtu.be/aq51y4meMOo ￼\n\n👕 NEW NINJA MERCH 👚 http://www.ninjakidz.store\n🤩 Request a personalized video: https://www.cameo.com/ninja_kidz_tv\n🥷 Join the Ninja Club and become a Ninja!  https://www.ninja-kidz.com/\n\nJoin this channel to get access to Ninja Fam Emojis:\nhttps://www.youtube.com/channel/UCU3Q7YbKNK6yTsG-g7v-5Ug/join\n\nFollow Us:\n📸 INSTAGRAM → @NinjaKidzTV https://www.instagram.com/ninjakidztv/\n📘 FACEBOOK → https://www.facebook.com/NinjaKidzTV/\n💌 FAN MAIL ADDRESS 📦\nNinja Kidz Family\nP.O. Box 123\nDraper, Ut. 84020",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VKuptGDuFxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VKuptGDuFxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VKuptGDuFxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VKuptGDuFxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VKuptGDuFxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Ninja Fam!",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Black Belt in 24 Hour Challenge! Surprise Ending! Daughters vs Dads",
+          "description": "My Daughter Payton and I trained Salish and Jordan Matter to become Black Belts in 24 hours! See Payton and Salish get Transformed into Wednesday Addams. Jenna Ortega would be impressed. https://youtu.be/aq51y4meMOo ￼\n\n👕 NEW NINJA MERCH 👚 http://www.ninjakidz.store\n🤩 Request a personalized video: https://www.cameo.com/ninja_kidz_tv\n🥷 Join the Ninja Club and become a Ninja!  https://www.ninja-kidz.com/\n\nJoin this channel to get access to Ninja Fam Emojis:\nhttps://www.youtube.com/channel/UCU3Q7YbKNK6yTsG-g7v-5Ug/join\n\nFollow Us:\n📸 INSTAGRAM → @NinjaKidzTV https://www.instagram.com/ninjakidztv/\n📘 FACEBOOK → https://www.facebook.com/NinjaKidzTV/\n💌 FAN MAIL ADDRESS 📦\nNinja Kidz Family\nP.O. Box 123\nDraper, Ut. 84020"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iWGOK7wq6QVzLA-ejlPFFiuWiyk",
+      "id": "_aqJB9t4VeE",
+      "snippet": {
+        "publishedAt": "2023-03-11T16:00:17Z",
+        "channelId": "UCwIWAbIeu0xI0ReKWOcw3eg",
+        "title": "I Spent 24 Hours in Elon Musk’s House",
+        "description": "For 60% off with HelloFresh PLUS free shipping, use code UNSPEAKABLE60\nat https://bit.ly/3EbkJLf! #sponsored\n\nNEW MERCH! - https://www.unspeakable.com/\n\nMORE VIDEOS! - https://www.youtube.com/channel/UCet_y01v87pE7MPGikjTQQw\n\nFOLLOW ME! - https://www.unspeakable.com/pages/links\n\nPLEASE leave a like & subscribe this video was expensive!! THANK YOU! I love tacos",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_aqJB9t4VeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_aqJB9t4VeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_aqJB9t4VeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_aqJB9t4VeE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_aqJB9t4VeE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Unspeakable",
+        "tags": [
+          "unspeakable",
+          "vlog",
+          "vlogs",
+          "unspeakablegaming",
+          "prank",
+          "comedy",
+          "challenge",
+          "laugh",
+          "funny",
+          "moments",
+          "craziest",
+          "pranks",
+          "crazy",
+          "no cursing",
+          "no swearing",
+          "how to",
+          "parody",
+          "troll",
+          "video",
+          "react",
+          "family friendly",
+          "funniest",
+          "adventure",
+          "trolling",
+          "unspeakable vlogs",
+          "real life",
+          "life",
+          "unspeakable real life",
+          "unspeakableplays"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Spent 24 Hours in Elon Musk’s House",
+          "description": "For 60% off with HelloFresh PLUS free shipping, use code UNSPEAKABLE60\nat https://bit.ly/3EbkJLf! #sponsored\n\nNEW MERCH! - https://www.unspeakable.com/\n\nMORE VIDEOS! - https://www.youtube.com/channel/UCet_y01v87pE7MPGikjTQQw\n\nFOLLOW ME! - https://www.unspeakable.com/pages/links\n\nPLEASE leave a like & subscribe this video was expensive!! THANK YOU! I love tacos"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "x0cOiH5SHpvbvl7CYEEhxRCIej0",
+      "id": "bIhY37I3VAc",
+      "snippet": {
+        "publishedAt": "2023-03-11T02:38:14Z",
+        "channelId": "UCLM1eE8w_DZ89n4yIxVbffA",
+        "title": "Destiny 2: ROOT OF NIGHTMARES RAID FOR DUMMIES! - Complete Raid Guide & Walkthrough!",
+        "description": "The Complete Guide to the new Root of Nightmares Raid, added to Destiny 2 with the Lightfall DLC during Season of Defiance! How to beat EVERY Encounter!\n→ CUSTOMIZE YOUR NEW PC: https://www.evolvepcs.gg/products/kackishd\n\nTIME STAMPS: \n00:00 – Cataclysm Guide (First Encounter)\n08:03 - Secret Raid Chest Location\n09:04 – Scission Guide (Second Encounter)\n13:58 – Jumping Puzzle Guide\n16:57 – Macrocosm Guide (ZO’AURC Raid Boss)\n25:53 – Nezarec Final Raid Boss Guide\n\nNew #Destiny2 video, going over the Root of Nightmares Raid Guide in Destiny 2:Lightfall after the release of the new Lightfall DLC (Expansion) and Year 6 of Destiny 2! The new Lightfall DLC is here! It provides a new campaign, new weapons, new exotic quests, and so much more! We have the latest Lightfall updates and news! Season of the Defiance has launched, with the Activity, New Exotic Quests and Exotic Missions and the Root of Nightmares Raid! We have all 3 new Strand subclasses (Broodweaver Warlock, Berserker Titan, Threadrunner Hunter) as well as new Strand Aspects and Fragments to use in new Strand Builds! \nBut today we're going over how to beat the root of nightmares raid in it's entirety! Hopefully you can get the new root of nightmares raid weapons and new raid gear, including the new Conditional Finality Exotic Raid Shotgun!\n#Destiny2News #Destiny2Lightfall\n\n--- My Twitter: https://twitter.com/RickKackis",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bIhY37I3VAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bIhY37I3VAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bIhY37I3VAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bIhY37I3VAc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bIhY37I3VAc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KackisHD",
+        "tags": [
+          "destiny 2",
+          "destiny 2 news",
+          "destiny 2 update",
+          "destiny 2 gameplay",
+          "destiny 2 lightfall",
+          "lightfall",
+          "destiny 2 best build",
+          "lightfall destiny 2",
+          "lightfall gameplay",
+          "season 20",
+          "destiny 2 strand",
+          "season of defiance",
+          "destiny 2 2023",
+          "lightfall campaign",
+          "destiny 2 level up fast",
+          "destiny 2 twab",
+          "destiny 2 raid",
+          "destiny 2 new raid",
+          "lightfall raid",
+          "root of nightmares",
+          "destiny 2 root of nightmares",
+          "bungie",
+          "root of nightmares guide",
+          "Conditional Finality",
+          "destiny 2 root of nightmares guide"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Destiny 2: ROOT OF NIGHTMARES RAID FOR DUMMIES! - Complete Raid Guide & Walkthrough!",
+          "description": "The Complete Guide to the new Root of Nightmares Raid, added to Destiny 2 with the Lightfall DLC during Season of Defiance! How to beat EVERY Encounter!\n→ CUSTOMIZE YOUR NEW PC: https://www.evolvepcs.gg/products/kackishd\n\nTIME STAMPS: \n00:00 – Cataclysm Guide (First Encounter)\n08:03 - Secret Raid Chest Location\n09:04 – Scission Guide (Second Encounter)\n13:58 – Jumping Puzzle Guide\n16:57 – Macrocosm Guide (ZO’AURC Raid Boss)\n25:53 – Nezarec Final Raid Boss Guide\n\nNew #Destiny2 video, going over the Root of Nightmares Raid Guide in Destiny 2:Lightfall after the release of the new Lightfall DLC (Expansion) and Year 6 of Destiny 2! The new Lightfall DLC is here! It provides a new campaign, new weapons, new exotic quests, and so much more! We have the latest Lightfall updates and news! Season of the Defiance has launched, with the Activity, New Exotic Quests and Exotic Missions and the Root of Nightmares Raid! We have all 3 new Strand subclasses (Broodweaver Warlock, Berserker Titan, Threadrunner Hunter) as well as new Strand Aspects and Fragments to use in new Strand Builds! \nBut today we're going over how to beat the root of nightmares raid in it's entirety! Hopefully you can get the new root of nightmares raid weapons and new raid gear, including the new Conditional Finality Exotic Raid Shotgun!\n#Destiny2News #Destiny2Lightfall\n\n--- My Twitter: https://twitter.com/RickKackis"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YICA_yfMxhuQ0JjO8V7Pf81BLfs",
+      "id": "wb5TSLzOyrQ",
+      "snippet": {
+        "publishedAt": "2023-03-11T16:20:55Z",
+        "channelId": "UCwaNuezahYT3BOjfXsne2mg",
+        "title": "Can I continue YouTube during Cancer Treatment?",
+        "description": "I've been creating YouTube videos for over 12 years now and am almost finished building the world's first YouTube Theme Park, but I've discovered 8 tumors in my spine. I recently had back surgery to have one removed. The doctors discovered that it was cancer so now I have to leave Las Vegas. I'm moving to Phoenix Arizona to get proton radiation therapy to destroy the cancer! We took a road trip to our new safe house! Will cancer stop me from making YouTube videos? Will cancer treatment make me so sick and tired that I have to quit YouTube?\n\nLet's turn my bad situation into something positive, helping children with illnesses: Donate here and receive a reward: https://tiltify.com/@chadwildclay/chads-wild-climb\n\nWatch these other awesome YouTuber's videos:\n\nUnspeakable - I Spent 24 Hours in Elon Musk’s House\nhttps://www.youtube.com/watch?v=_aqJB9t4VeE\n\nPreston - Busting 100 Childhood Myths in 24 Hours!\nhttps://www.youtube.com/watch?v=fkMRnm9Qnso\n\nJordan Matter - Transforming My Daughter Into Wednesday Addams *emotional 😂*\nhttps://www.youtube.com/watch?v=aq51y4meMOo\n\nRyan Trahan - I Survived the World's Loneliest Job\nhttps://www.youtube.com/watch?v=cG22jPC9J_0\n\nFaZe Rug - Who Can Turn $100 to $10,000 in 24 HOURS!!\nhttps://www.youtube.com/watch?v=0oQJcvyW5z8\n\n▶ Official Spy Ninjas Website - https://www.spyninjas.net/\n▶ SPY NINJAS GADGETS - https://spyninjasgadgets.com/\n▶ SPY NINJAS & CWC Merch - https://www.spyninjasstore.com/\n▶ SPY NINJA Mobile App Game - https://spyninja.page.link/cwcyoutube\n\nWatch Spy Ninjas on YouTube here:\n▶ Chad - https://www.youtube.com/user/chadwildclay\n▶ Vy - https://www.youtube.com/user/VyQwaint\n▶ Daniel - https://www.youtube.com/channel/UCmFzvquJYoSDFhd9W0JhZKw\n\nSpy Ninjas TikTok:\n▶ Chad - https://www.tiktok.com/@chadwildclay\n▶ Vy - https://www.tiktok.com/@vyqwaint\n▶ Daniel - https://www.tiktok.com/@danielgizmo\n\nSpy Ninjas' Instagram:\n▶ Spy NInjas - https://www.instagram.com/spyninjas/\n▶ Chad - https://www.instagram.com/chadwildclay\n▶ Vy - https://www.instagram.com/vyqwaint\n▶ Daniel - https://www.instagram.com/cwcdaniel\n\nMost royalty free background music is from Epidemic Sounds. You can use their music in your videos by clicking here http://share.epidemicsound.com/mDVsZ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wb5TSLzOyrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wb5TSLzOyrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wb5TSLzOyrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wb5TSLzOyrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wb5TSLzOyrQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chad Wild Clay",
+        "tags": [
+          "spy ninjas",
+          "spy ninja",
+          "chad wild clay",
+          "cwc",
+          "vy qwaint",
+          "chad and vy",
+          "chad and v",
+          "project zorgo",
+          "vy",
+          "chad",
+          "daniel",
+          "unspeakable",
+          "faze rug",
+          "arizona",
+          "phoenix",
+          "new house",
+          "safehouse",
+          "cancer",
+          "radiation",
+          "vlog",
+          "road trip",
+          "moving",
+          "youtube",
+          "quit",
+          "goodbye",
+          "surgery",
+          "tumors",
+          "cancer treatment",
+          "i spent",
+          "24 hours",
+          "elon musk",
+          "house",
+          "busting",
+          "childhood",
+          "myths",
+          "jordan matter",
+          "transforming",
+          "daughter",
+          "emotional",
+          "wednesday addams",
+          "ryan trahan",
+          "i survived",
+          "loneliest",
+          "job",
+          "who can turn",
+          "preston",
+          "fun",
+          "funny",
+          "comedy"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Can I continue YouTube during Cancer Treatment?",
+          "description": "I've been creating YouTube videos for over 12 years now and am almost finished building the world's first YouTube Theme Park, but I've discovered 8 tumors in my spine. I recently had back surgery to have one removed. The doctors discovered that it was cancer so now I have to leave Las Vegas. I'm moving to Phoenix Arizona to get proton radiation therapy to destroy the cancer! We took a road trip to our new safe house! Will cancer stop me from making YouTube videos? Will cancer treatment make me so sick and tired that I have to quit YouTube?\n\nLet's turn my bad situation into something positive, helping children with illnesses: Donate here and receive a reward: https://tiltify.com/@chadwildclay/chads-wild-climb\n\nWatch these other awesome YouTuber's videos:\n\nUnspeakable - I Spent 24 Hours in Elon Musk’s House\nhttps://www.youtube.com/watch?v=_aqJB9t4VeE\n\nPreston - Busting 100 Childhood Myths in 24 Hours!\nhttps://www.youtube.com/watch?v=fkMRnm9Qnso\n\nJordan Matter - Transforming My Daughter Into Wednesday Addams *emotional 😂*\nhttps://www.youtube.com/watch?v=aq51y4meMOo\n\nRyan Trahan - I Survived the World's Loneliest Job\nhttps://www.youtube.com/watch?v=cG22jPC9J_0\n\nFaZe Rug - Who Can Turn $100 to $10,000 in 24 HOURS!!\nhttps://www.youtube.com/watch?v=0oQJcvyW5z8\n\n▶ Official Spy Ninjas Website - https://www.spyninjas.net/\n▶ SPY NINJAS GADGETS - https://spyninjasgadgets.com/\n▶ SPY NINJAS & CWC Merch - https://www.spyninjasstore.com/\n▶ SPY NINJA Mobile App Game - https://spyninja.page.link/cwcyoutube\n\nWatch Spy Ninjas on YouTube here:\n▶ Chad - https://www.youtube.com/user/chadwildclay\n▶ Vy - https://www.youtube.com/user/VyQwaint\n▶ Daniel - https://www.youtube.com/channel/UCmFzvquJYoSDFhd9W0JhZKw\n\nSpy Ninjas TikTok:\n▶ Chad - https://www.tiktok.com/@chadwildclay\n▶ Vy - https://www.tiktok.com/@vyqwaint\n▶ Daniel - https://www.tiktok.com/@danielgizmo\n\nSpy Ninjas' Instagram:\n▶ Spy NInjas - https://www.instagram.com/spyninjas/\n▶ Chad - https://www.instagram.com/chadwildclay\n▶ Vy - https://www.instagram.com/vyqwaint\n▶ Daniel - https://www.instagram.com/cwcdaniel\n\nMost royalty free background music is from Epidemic Sounds. You can use their music in your videos by clicking here http://share.epidemicsound.com/mDVsZ"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aRbpCRmEoRPSIgP-9iel0x4kuEA",
+      "id": "f4EXpaZYzt8",
+      "snippet": {
+        "publishedAt": "2023-03-11T16:00:30Z",
+        "channelId": "UCVd4vxmL1SO5wHe8VpyA_NA",
+        "title": "$2 Beef Patty Vs. $689 Lobster Tower w/ Simu Liu",
+        "description": "Steven’s friend Simu show’s the Worth It crew around Toronto, taking them to 3 of his favorite spots at 3 different price points.\n\nWatch Simu alongside Phillipa Soo and Luke Bracey in One True Loves, in theaters April 7 and on digital April 14: https://www.youtube.com/watch?v=87EeZG2n2po\n\n0:00 Welcome back\n0:54 Spicy beef patty\n3:55 Toronto fact\n5:23 Khao soi\n10:58 Lobster fact\n11:37 Lobster tower\n15:38 Worth It winners\n\nAbout To Eat\nFrom your friends who are professionally curious about food.\n\n\nCredits: https://www.buzzfeed.com/bfmp/videos/159625\nMUSIC\nNapoli_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nSwagger Tattoos_30 Second No Vocals Vocal FX\nLicensed via Warner Chappell Production Music Inc.\nSwagger Tattoos_No Vocals Vocal FX\nLicensed via Warner Chappell Production Music Inc.\nLaid Back Vibes_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nSpringtime Swing_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nSnoozing_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nDowntown Feelings_Main\nLicensed via Warner Chappell Production Music Inc.\nLime Squeeze Me_Main\nLicensed via Warner Chappell Production Music Inc.\nFete Clandestine_Main\nLicensed via Warner Chappell Production Music Inc.\nDowntown Summer_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nBlack Is Back_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nValse De Paris_Main\nLicensed via Warner Chappell Production Music Inc.\nLemon Yum Yum_Main Mix\nLicensed via Warner Chappell Production Music Inc.\nGoing To Town_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nDjango Café_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nHot Mess_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nOnly In My Sleep_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nLucky In Love_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nPaisian Summer_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nHappy Go Lucky_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nGenesis_29 Sec\nLicensed via Warner Chappell Production Music Inc.\nGenesis_59 Sec\nLicensed via Warner Chappell Production Music Inc.\nGenesis_Main\nLicensed via Warner Chappell Production Music Inc.\n\n\n\n\nhttps://www.youtube.com/abouttoeat",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f4EXpaZYzt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f4EXpaZYzt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f4EXpaZYzt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f4EXpaZYzt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f4EXpaZYzt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "About To Eat",
+        "tags": [
+          "worth it",
+          "worth it buzzfeed",
+          "buzzfeedvideo",
+          "about to eat",
+          "adam bianchi",
+          "andrew ilnyckyj",
+          "steven lim",
+          "final season",
+          "toronto",
+          "canada",
+          "simu liu",
+          "golden patty",
+          "spicy beef patty",
+          "hometown favorites",
+          "best restaurants",
+          "patty king",
+          "pai",
+          "khao soi",
+          "lobster tower",
+          "markham",
+          "toronto fact",
+          "lobster fact",
+          "food tour",
+          "northern thai food",
+          "chinese food",
+          "jamaican food",
+          "fried lobster",
+          "fishman lobster clubhouse"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "$2 Beef Patty Vs. $689 Lobster Tower w/ Simu Liu",
+          "description": "Steven’s friend Simu show’s the Worth It crew around Toronto, taking them to 3 of his favorite spots at 3 different price points.\n\nWatch Simu alongside Phillipa Soo and Luke Bracey in One True Loves, in theaters April 7 and on digital April 14: https://www.youtube.com/watch?v=87EeZG2n2po\n\n0:00 Welcome back\n0:54 Spicy beef patty\n3:55 Toronto fact\n5:23 Khao soi\n10:58 Lobster fact\n11:37 Lobster tower\n15:38 Worth It winners\n\nAbout To Eat\nFrom your friends who are professionally curious about food.\n\n\nCredits: https://www.buzzfeed.com/bfmp/videos/159625\nMUSIC\nNapoli_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nSwagger Tattoos_30 Second No Vocals Vocal FX\nLicensed via Warner Chappell Production Music Inc.\nSwagger Tattoos_No Vocals Vocal FX\nLicensed via Warner Chappell Production Music Inc.\nLaid Back Vibes_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nSpringtime Swing_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nSnoozing_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nDowntown Feelings_Main\nLicensed via Warner Chappell Production Music Inc.\nLime Squeeze Me_Main\nLicensed via Warner Chappell Production Music Inc.\nFete Clandestine_Main\nLicensed via Warner Chappell Production Music Inc.\nDowntown Summer_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nBlack Is Back_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nValse De Paris_Main\nLicensed via Warner Chappell Production Music Inc.\nLemon Yum Yum_Main Mix\nLicensed via Warner Chappell Production Music Inc.\nGoing To Town_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nDjango Café_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nHot Mess_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nOnly In My Sleep_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nLucky In Love_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nPaisian Summer_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nHappy Go Lucky_Full Mix\nLicensed via Warner Chappell Production Music Inc.\nGenesis_29 Sec\nLicensed via Warner Chappell Production Music Inc.\nGenesis_59 Sec\nLicensed via Warner Chappell Production Music Inc.\nGenesis_Main\nLicensed via Warner Chappell Production Music Inc.\n\n\n\n\nhttps://www.youtube.com/abouttoeat"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A5abjEaptc4rGXgP6QV9t-uLOgU",
+      "id": "S4fe-YEqAf4",
+      "snippet": {
+        "publishedAt": "2023-03-11T14:41:23Z",
+        "channelId": "UCIYI7DDUMDgJLODyyjM2SWQ",
+        "title": "I Travelled 120,000,000 Blocks in Minecraft Hardcore!",
+        "description": "I travelled 120 million blocks in minecraft hardcore in only 1 second!\n\nI Travelled from WORLD BORDER to the other WORLD BORDER twice!!! This was very difficult task and literally took over 300 days of my minecraft hardcore world and many hours coming up with the plan and fixing problems. There was hours and hours of footage that went into this video, cut down to only 22 mins so make sure you watch till then end! :)\n\nI did this a while ago but this time I went even further: \nI Travelled 30,000,000 Blocks in Minecraft Hardcore!\nhttps://www.youtube.com/watch?v=g_LGp1dvKEs\n\nWatch from the start: https://www.youtube.com/watch?v=2CplCUyiI3c&list=PLuP1FCJ1ukL5qTks7ziukaGsjckRnROGV\nFOLLOW ME: https://solo.to/lockdownlife\nGet gamersupps here with code \"LOCKDOWN\" for 10% off!!! https://gamersupps.gg/LOCKDOWN\n\nThis Hardcore Minecraft series is inspired by Wadzee, Sandiction and aCookieGod. Instead of being Wadzee, Sandiction and aCookieGod, this series is similar to a Minecraft challenge video but it is Minecraft Hardcore! This is just like my 100 days videos but better!\n\nCredit:\nInspiration from @slt \nThis reddit post helped: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhyNUJxNXgtMlFSdXpVUDB0RnBZd3JRV2NCUXxBQ3Jtc0tsTzZIRG5tTXdGdXFITThDRUcwcUVfc1BnT2tMUDRzQTlvYm5ucHYxZi1GWUlsazNKR21TX0pTSHJMZzh4bFFlTng3MWdvRDc0eFhrSW1kWkwyMDh0b3RYajBiUExQOER2TTMybkdYYXV0a3VoSGpZUQ&q=https%3A%2F%2Fwww.reddit.com%2Fr%2FMinecraft%2Fcomments%2Flemkei%2Fteleport_back_to_spawn_by_sleeping_in_survival%2F&v=blFhfbXNeco\nMy previous video: I travelled 30,000,000 blocks in minecarft hardcore \n\n#minecrafthardcore #hardcoreminecraft #minecraft",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4fe-YEqAf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4fe-YEqAf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4fe-YEqAf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S4fe-YEqAf4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S4fe-YEqAf4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LockDownLife",
+        "tags": [
+          "Minecraft",
+          "minecraft hardcore",
+          "hardcore minecraft",
+          "lockdownlife",
+          "minecarft world border",
+          "i travelled 120 million blocks",
+          "minecraft hardcore world border",
+          "i travelled to the world border",
+          "minecraft 1.19 hardcore",
+          "i travelled 120000000 blocks"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Travelled 120,000,000 Blocks in Minecraft Hardcore!",
+          "description": "I travelled 120 million blocks in minecraft hardcore in only 1 second!\n\nI Travelled from WORLD BORDER to the other WORLD BORDER twice!!! This was very difficult task and literally took over 300 days of my minecraft hardcore world and many hours coming up with the plan and fixing problems. There was hours and hours of footage that went into this video, cut down to only 22 mins so make sure you watch till then end! :)\n\nI did this a while ago but this time I went even further: \nI Travelled 30,000,000 Blocks in Minecraft Hardcore!\nhttps://www.youtube.com/watch?v=g_LGp1dvKEs\n\nWatch from the start: https://www.youtube.com/watch?v=2CplCUyiI3c&list=PLuP1FCJ1ukL5qTks7ziukaGsjckRnROGV\nFOLLOW ME: https://solo.to/lockdownlife\nGet gamersupps here with code \"LOCKDOWN\" for 10% off!!! https://gamersupps.gg/LOCKDOWN\n\nThis Hardcore Minecraft series is inspired by Wadzee, Sandiction and aCookieGod. Instead of being Wadzee, Sandiction and aCookieGod, this series is similar to a Minecraft challenge video but it is Minecraft Hardcore! This is just like my 100 days videos but better!\n\nCredit:\nInspiration from @slt \nThis reddit post helped: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhyNUJxNXgtMlFSdXpVUDB0RnBZd3JRV2NCUXxBQ3Jtc0tsTzZIRG5tTXdGdXFITThDRUcwcUVfc1BnT2tMUDRzQTlvYm5ucHYxZi1GWUlsazNKR21TX0pTSHJMZzh4bFFlTng3MWdvRDc0eFhrSW1kWkwyMDh0b3RYajBiUExQOER2TTMybkdYYXV0a3VoSGpZUQ&q=https%3A%2F%2Fwww.reddit.com%2Fr%2FMinecraft%2Fcomments%2Flemkei%2Fteleport_back_to_spawn_by_sleeping_in_survival%2F&v=blFhfbXNeco\nMy previous video: I travelled 30,000,000 blocks in minecarft hardcore \n\n#minecrafthardcore #hardcoreminecraft #minecraft"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QvpXbvcgg38FJfKYROebyOezxnU",
+      "id": "MaJEUOI3KlY",
+      "snippet": {
+        "publishedAt": "2023-03-10T18:00:07Z",
+        "channelId": "UCpdK1NLHxEUGXc1gq2NxkTw",
+        "title": "15-Year-Old Ryley Tate Wilson Stuns Coaches with \"Dancing On My Own\" | The Voice Blind Auditions",
+        "description": "Ryley Tate Wilson performs Robyn's \"Dancing On My Own\" during The Voice Blind Auditions. Watch The Voice on Mondays at 8/7c and Tuesdays at 9/8c on NBC and streaming on Peacock.\n\n» Stream Now: https://pck.tv/3wgH6sH\n» Get The Voice Official App: http://bit.ly/TheVoiceOfficialApp\n» Subscribe for More: http://bit.ly/TheVoiceSub\n» NBC’s The Voice Stream on Peacock\n\nTHE VOICE ON SOCIAL:\nLike The Voice: http://Facebook.com/NBCTheVoice\nFollow The Voice: https://Twitter.com/NBCTheVoice\nFollow The Voice on Instagram: https://instagram.com/nbcthevoice/\nFollow  @usanetwork  \nFollow  @kellyclarksonshow\n\nNBC’s The Voice follows the strongest vocalists from across the country and invites them to compete in this season's blockbuster vocal competition.\n\n#TheVoice #NBC #BlakeShelton #KellyClarkson #ChanceTheRapper #Niall\n\nFind The Voice trailers, full episode highlights, previews, promos, clips, and digital exclusives here.\n\nNBC ON SOCIAL:\nYouTube: http://www.youtube.com/nbc\nTwitter: http://Twitter.com/NBC\nFacebook: http://Facebook.com/NBC\nInstagram: http://instagram.com/nbc\n\nABOUT THE VOICE\nAmerica’s favorite singing competition is back! Grammy-winning hip-hop star Chance the Rapper and platinum-selling singer-songwriter Niall Horan join returning coaches Kelly Clarkson and Blake Shelton to find and mentor the country’s best undiscovered talent. With extraordinary Blind Auditions, never-before-seen twists, and thrilling live performances, the competition is fiercer than ever as Blake goes for the win in his incredible final season.\n \n15-Year-Old Ryley Tate Wilson Stuns Coaches with \"Dancing On My Own\" | The Voice Blind Auditions\nhttps://youtu.be/MaJEUOI3KlY\n\nThe Voice\nhttp://www.youtube.com/user/nbcthevoice",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MaJEUOI3KlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MaJEUOI3KlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MaJEUOI3KlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MaJEUOI3KlY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MaJEUOI3KlY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Voice",
+        "tags": [
+          "the voice",
+          "the voice on nbc",
+          "watch the voice",
+          "season 23",
+          "blind auditions",
+          "blinds",
+          "blake shelton",
+          "kelly clarkson",
+          "niall horan",
+          "chance the rapper",
+          "team blake",
+          "team kelly",
+          "team chance",
+          "team niall",
+          "best blind auditions",
+          "ryley tate wilson",
+          "dancing on my own",
+          "four chairs",
+          "leak",
+          "the voice season 23",
+          "coaches",
+          "carson daly",
+          "host carson daly",
+          "first look",
+          "new coaches",
+          "blake's last season",
+          "the voice nbc",
+          "the voice new season"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "15-Year-Old Ryley Tate Wilson Stuns Coaches with \"Dancing On My Own\" | The Voice Blind Auditions",
+          "description": "Ryley Tate Wilson performs Robyn's \"Dancing On My Own\" during The Voice Blind Auditions. Watch The Voice on Mondays at 8/7c and Tuesdays at 9/8c on NBC and streaming on Peacock.\n\n» Stream Now: https://pck.tv/3wgH6sH\n» Get The Voice Official App: http://bit.ly/TheVoiceOfficialApp\n» Subscribe for More: http://bit.ly/TheVoiceSub\n» NBC’s The Voice Stream on Peacock\n\nTHE VOICE ON SOCIAL:\nLike The Voice: http://Facebook.com/NBCTheVoice\nFollow The Voice: https://Twitter.com/NBCTheVoice\nFollow The Voice on Instagram: https://instagram.com/nbcthevoice/\nFollow  @usanetwork  \nFollow  @kellyclarksonshow\n\nNBC’s The Voice follows the strongest vocalists from across the country and invites them to compete in this season's blockbuster vocal competition.\n\n#TheVoice #NBC #BlakeShelton #KellyClarkson #ChanceTheRapper #Niall\n\nFind The Voice trailers, full episode highlights, previews, promos, clips, and digital exclusives here.\n\nNBC ON SOCIAL:\nYouTube: http://www.youtube.com/nbc\nTwitter: http://Twitter.com/NBC\nFacebook: http://Facebook.com/NBC\nInstagram: http://instagram.com/nbc\n\nABOUT THE VOICE\nAmerica’s favorite singing competition is back! Grammy-winning hip-hop star Chance the Rapper and platinum-selling singer-songwriter Niall Horan join returning coaches Kelly Clarkson and Blake Shelton to find and mentor the country’s best undiscovered talent. With extraordinary Blind Auditions, never-before-seen twists, and thrilling live performances, the competition is fiercer than ever as Blake goes for the win in his incredible final season.\n \n15-Year-Old Ryley Tate Wilson Stuns Coaches with \"Dancing On My Own\" | The Voice Blind Auditions\nhttps://youtu.be/MaJEUOI3KlY\n\nThe Voice\nhttp://www.youtube.com/user/nbcthevoice"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5tpS1k38qGunA64wPL49dJapQP8",
+      "id": "9coyY-SPIXU",
+      "snippet": {
+        "publishedAt": "2023-03-10T17:00:07Z",
+        "channelId": "UCf3cbfAXgPFL6OywH7JwOzA",
+        "title": "Meghan Trainor - Mother (Official Music Video)",
+        "description": "Meghan Trainor - Mother (Official Music Video)\n\n\"Takin' It Back (Deluxe)\" available at: https://MeghanTrainor.lnk.to/TakinItBackDeluxe\n\nJoin #IAmYourMother: https://yt.be/MotherDance\n\nFollow Meghan Trainor:\nFacebook: https://MeghanTrainor.lnk.to/followFI\nTwitter: https://MeghanTrainor.lnk.to/followTI\nInstagram: https://www.instagram.com/meghantrainor/\nWebsite: https://MeghanTrainor.lnk.to/followWI\nSpotify: https://MeghanTrainor.lnk.to/followSI\nTikTok: https://www.tiktok.com/@meghantrainor\nStore: https://meghantrainor.store/collections/taking-it-back\nApple Music: https://music.apple.com/us/artist/meghan-trainor/348580754\n\n(C) 2023 Epic Records, a division of Sony Music Entertainment\n\n#MeghanTrainor #Mother #TakinItBack",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9coyY-SPIXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9coyY-SPIXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9coyY-SPIXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9coyY-SPIXU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9coyY-SPIXU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MeghanTrainorVEVO",
+        "tags": [
+          "kris jenner",
+          "kim kardashian",
+          "kim",
+          "khloe kardashian",
+          "kourtney kardashian",
+          "kylie jenner",
+          "kendall jenner",
+          "rob jenner",
+          "kuwtk",
+          "the kardashians",
+          "kardashian",
+          "kylie",
+          "kendall",
+          "kris",
+          "meghan trainor",
+          "thank you",
+          "treat myself",
+          "nicki minaj",
+          "nice to meet ya",
+          "title",
+          "all about that bass",
+          "like im gonna lose you",
+          "no excuses",
+          "epic",
+          "epic records",
+          "new music",
+          "dillon francis",
+          "jay dixie",
+          "treat myself deluxe",
+          "workin on it",
+          "lennon stella",
+          "sasha sloan",
+          "wave",
+          "mike",
+          "bad"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Meghan Trainor - Mother (Official Music Video)",
+          "description": "Meghan Trainor - Mother (Official Music Video)\n\n\"Takin' It Back (Deluxe)\" available at: https://MeghanTrainor.lnk.to/TakinItBackDeluxe\n\nJoin #IAmYourMother: https://yt.be/MotherDance\n\nFollow Meghan Trainor:\nFacebook: https://MeghanTrainor.lnk.to/followFI\nTwitter: https://MeghanTrainor.lnk.to/followTI\nInstagram: https://www.instagram.com/meghantrainor/\nWebsite: https://MeghanTrainor.lnk.to/followWI\nSpotify: https://MeghanTrainor.lnk.to/followSI\nTikTok: https://www.tiktok.com/@meghantrainor\nStore: https://meghantrainor.store/collections/taking-it-back\nApple Music: https://music.apple.com/us/artist/meghan-trainor/348580754\n\n(C) 2023 Epic Records, a division of Sony Music Entertainment\n\n#MeghanTrainor #Mother #TakinItBack"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xJ6LiqZYXPRGhdEUylusxBdA5RQ",
+      "id": "mASphq1Skhk",
+      "snippet": {
+        "publishedAt": "2023-03-11T15:15:04Z",
+        "channelId": "UCnepIUw_tvOatokJAB1yipA",
+        "title": "First to Catch the Random Pokémon Wins",
+        "description": "We hop in the Union Circle in Pokemon Scarlet and Violet and race to catch the randomly decided Pokemon first!\n📽️Subscribe here! http://bit.ly/mandjtv_plays\n👕Merch store! https://mandjtvmerch.com/\n💸Support me on Patreon and get perks! http://bit.ly/mandjtv_patreon\n▶️Main Pokemon Channel! http://bit.ly/mandjtv_sub\n📱 TikTok! http://bit.ly/mandjtv_tiktok\n📸Instagram! http://bit.ly/mandjtv_insta\n👽Reddit! http://bit.ly/mandjtv_reddit\n🏪Amazon Storefront! http://bit.ly/mandjtv_shop\n\nEdited by Katie Rose\nMytey subscribe animation by Spoody: https://www.youtube.com/channel/UCtT-Ff9o7Ygj0dUu8wGiXcw\nPokemon Picker by laugexd: https://pokemon-picker.laugexd.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mASphq1Skhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mASphq1Skhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mASphq1Skhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mASphq1Skhk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mASphq1Skhk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MandJTV Plays",
+        "tags": [
+          "mandjtv",
+          "mandjtv pokevids",
+          "gameplay",
+          "let's play",
+          "pokemon",
+          "pokemon sword and shield",
+          "pokemon sword",
+          "pokemon shield",
+          "new pokemon",
+          "pokemon let's play",
+          "playthrough",
+          "best pokemon",
+          "all pokemon",
+          "nintendo pokemon",
+          "original pokemon",
+          "pikachu",
+          "greninja",
+          "charizard",
+          "pokemon switch",
+          "legends arceus",
+          "pokemon legends arceus",
+          "pokemon scarlet and violet",
+          "scarlet violet",
+          "gen 9",
+          "union circle",
+          "random pokemon"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "First to Catch the Random Pokémon Wins",
+          "description": "We hop in the Union Circle in Pokemon Scarlet and Violet and race to catch the randomly decided Pokemon first!\n📽️Subscribe here! http://bit.ly/mandjtv_plays\n👕Merch store! https://mandjtvmerch.com/\n💸Support me on Patreon and get perks! http://bit.ly/mandjtv_patreon\n▶️Main Pokemon Channel! http://bit.ly/mandjtv_sub\n📱 TikTok! http://bit.ly/mandjtv_tiktok\n📸Instagram! http://bit.ly/mandjtv_insta\n👽Reddit! http://bit.ly/mandjtv_reddit\n🏪Amazon Storefront! http://bit.ly/mandjtv_shop\n\nEdited by Katie Rose\nMytey subscribe animation by Spoody: https://www.youtube.com/channel/UCtT-Ff9o7Ygj0dUu8wGiXcw\nPokemon Picker by laugexd: https://pokemon-picker.laugexd.com/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oyUptJTpG00rPvnRg252WekN1kA",
+      "id": "zVRwUHbHgt8",
+      "snippet": {
+        "publishedAt": "2023-03-09T16:00:39Z",
+        "channelId": "UCPD_bxCRGpmmeQcbe2kpPaA",
+        "title": "Pedro Pascal Cries From His Head While Eating Spicy Wings | Hot Ones",
+        "description": "Pedro Pascal is an actor you know from a string of massive global hits over the last decade, including Game of Thrones, Narcos, and The Last of Us. Currently, he stars in the much anticipated third season of The Mandalorian, streaming now on Disney+. But how is he with spicy food? Find out as Pascal takes on the wings of death and talks about epic on-screen deaths, working with Baby Yoda, and his unapologetic take on Mexican food in New York City.\n\nBUY HOT ONES HOT SAUCE NOW: https://fwfea.st/hotsauces\n\nTRY THE HOT ONES BONELESS CHICKEN BITE CHALLENGE: https://fwfea.st/chickenbites\n\nBUY HOT ONES TRUTH OR DAB: THE GAME: http://truthordabgame.com\n\nSHOP HOT ONES MERCH: https://bit.ly/2AIS271\n\nSIGN UP FOR THE HOT ONES MONTHLY HOT SAUCE SUBSCRIPTION: https://bit.ly/2veY50P\n\nSIGN UP FOR THE FIRST WE FEAST NEWSLETTER: http://firstwefeast.com/signup\n\nSUBSCRIBE TO FIRST WE FEAST ON YOUTUBE: http://goo.gl/UxFzhK\n\nMAKE A DIFFERENCE BY DONATING TO COMMON THREADS, THE OFFICIAL  CHARITY PARTNER OF HOT ONES: https://www.commonthreads.org/firstwe...\n\nCheck out more of First We Feast here:\nhttp://firstwefeast.com/\nhttp://instagram.com/firstwefeast\nhttp://instagram.com/hotones/\nhttps://twitter.com/firstwefeast\nhttps://www.facebook.com/FirstWeFeast\n\nFirst We Feast videos offer an iconoclastic view into the culinary world, taking you behind-the-scenes with some of the country’s best chefs and finding the unexpected places where food and pop culture intersect.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zVRwUHbHgt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zVRwUHbHgt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zVRwUHbHgt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zVRwUHbHgt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zVRwUHbHgt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "First We Feast",
+        "tags": [
+          "First we feast",
+          "fwf",
+          "firstwefeast",
+          "food",
+          "cook",
+          "cooking",
+          "chef",
+          "recipe",
+          "complex",
+          "complex networks",
+          "spicy food",
+          "foodie",
+          "burgers",
+          "food documentary",
+          "hot ones",
+          "pedro pascal",
+          "the last of us",
+          "hbo",
+          "hbo max",
+          "bella ramsey",
+          "The Mandalorian",
+          "narcos",
+          "last of us",
+          "grogu",
+          "spicy",
+          "wings",
+          "pedro",
+          "pascal",
+          "game of thrones"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Pedro Pascal Cries From His Head While Eating Spicy Wings | Hot Ones",
+          "description": "Pedro Pascal is an actor you know from a string of massive global hits over the last decade, including Game of Thrones, Narcos, and The Last of Us. Currently, he stars in the much anticipated third season of The Mandalorian, streaming now on Disney+. But how is he with spicy food? Find out as Pascal takes on the wings of death and talks about epic on-screen deaths, working with Baby Yoda, and his unapologetic take on Mexican food in New York City.\n\nBUY HOT ONES HOT SAUCE NOW: https://fwfea.st/hotsauces\n\nTRY THE HOT ONES BONELESS CHICKEN BITE CHALLENGE: https://fwfea.st/chickenbites\n\nBUY HOT ONES TRUTH OR DAB: THE GAME: http://truthordabgame.com\n\nSHOP HOT ONES MERCH: https://bit.ly/2AIS271\n\nSIGN UP FOR THE HOT ONES MONTHLY HOT SAUCE SUBSCRIPTION: https://bit.ly/2veY50P\n\nSIGN UP FOR THE FIRST WE FEAST NEWSLETTER: http://firstwefeast.com/signup\n\nSUBSCRIBE TO FIRST WE FEAST ON YOUTUBE: http://goo.gl/UxFzhK\n\nMAKE A DIFFERENCE BY DONATING TO COMMON THREADS, THE OFFICIAL  CHARITY PARTNER OF HOT ONES: https://www.commonthreads.org/firstwe...\n\nCheck out more of First We Feast here:\nhttp://firstwefeast.com/\nhttp://instagram.com/firstwefeast\nhttp://instagram.com/hotones/\nhttps://twitter.com/firstwefeast\nhttps://www.facebook.com/FirstWeFeast\n\nFirst We Feast videos offer an iconoclastic view into the culinary world, taking you behind-the-scenes with some of the country’s best chefs and finding the unexpected places where food and pop culture intersect."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZchXCvLrrHnEqAeQW4K5LzaF0Bc",
+      "id": "5RAVxnl9KzI",
+      "snippet": {
+        "publishedAt": "2023-03-10T17:07:22Z",
+        "channelId": "UCUebubwSuTHfHjWJI4gCS9A",
+        "title": "JOYNER LUCAS - Devil's Work 2 (Not Now, I’m Busy)",
+        "description": "Stream Joyner Lucas now: https://orcd.co/devilswork2\n\nTully App: https://tullyapp.com\n\nMerch: https://joynerlucas.com/collections \n\nMunicipal: https://municipal.com/collections\n\nCreate, Manage & Distribute Music using Tully. The #1 tool for Independent Artists offering monthly opportunities. \n\nTully opportunity drops include: features, cash giveaways, a touring opportunity and more! Tully App is a blueprint for the entrepreneur artist to successfully operate in today's music industry. You can Create, Manage, Distribute music in one app.\n\n#tullyapp #joynerlucas",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5RAVxnl9KzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5RAVxnl9KzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5RAVxnl9KzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5RAVxnl9KzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5RAVxnl9KzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Joyner Lucas",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "JOYNER LUCAS - Devil's Work 2 (Not Now, I’m Busy)",
+          "description": "Stream Joyner Lucas now: https://orcd.co/devilswork2\n\nTully App: https://tullyapp.com\n\nMerch: https://joynerlucas.com/collections \n\nMunicipal: https://municipal.com/collections\n\nCreate, Manage & Distribute Music using Tully. The #1 tool for Independent Artists offering monthly opportunities. \n\nTully opportunity drops include: features, cash giveaways, a touring opportunity and more! Tully App is a blueprint for the entrepreneur artist to successfully operate in today's music industry. You can Create, Manage, Distribute music in one app.\n\n#tullyapp #joynerlucas"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kAu7jT8XOflMdihpt4hRuNvjBNE",
+      "id": "w4cTYnOPdNk",
+      "snippet": {
+        "publishedAt": "2023-03-10T05:00:10Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE \"SET ME FREE\" M/V",
+        "description": "TWICE \"SET ME FREE\" M/V\n\nTWICE 12TH MINI ALBUM \"READY TO BE\"\n\n📌Listen \"READY TO BE\" Here🗝\nhttps://TWICE.lnk.to/READYTOBE\n\nTWICE Official Shop: https://TWICE.lnk.to/Shop\nTWICE Official YouTube: http://www.youtube.com/c/TWICE\nTWICE Official Facebook: http://www.facebook.com/JYPETWICE\nTWICE Official Twitter: http://www.twitter.com/JYPETWICE\nTWICE Official TikTok https://www.tiktok.com/@twice_tiktok_...\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM\nTWICE Official Homepage: http://TWICE.jype.com\nTWICE Official Fan's: http://fans.jype.com/TWICE\n\nⓒ 2023 JYP Entertainment. All Rights Reserved\n\n#TWICE #READYTOBE #SETMEFREE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w4cTYnOPdNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w4cTYnOPdNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w4cTYnOPdNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w4cTYnOPdNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "tags": [
+          "JYP Entertainment",
+          "JYP",
+          "트와이스",
+          "TWICE",
+          "트와이스 레디 투 비",
+          "TWICE READY TO BE",
+          "트와이스 신곡",
+          "레디 투 비",
+          "READY TO BE",
+          "트와이스 셋 미 프리",
+          "TWICE SET ME FREE",
+          "TWICE 셋 미 프리",
+          "트와이스 SET ME FREE",
+          "트와이스 셋 미 프리 뮤비",
+          "set me free mv",
+          "트와이스 뮤비",
+          "TWICE SET ME FREE MV",
+          "TWICE MV",
+          "SET ME FREE MV",
+          "셋 미 프리 뮤비",
+          "셋 미 프리 뮤직비디오"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "TWICE \"SET ME FREE\" M/V",
+          "description": "TWICE \"SET ME FREE\" M/V\n\nTWICE 12TH MINI ALBUM \"READY TO BE\"\n\n📌Listen \"READY TO BE\" Here🗝\nhttps://TWICE.lnk.to/READYTOBE\n\nTWICE Official Shop: https://TWICE.lnk.to/Shop\nTWICE Official YouTube: http://www.youtube.com/c/TWICE\nTWICE Official Facebook: http://www.facebook.com/JYPETWICE\nTWICE Official Twitter: http://www.twitter.com/JYPETWICE\nTWICE Official TikTok https://www.tiktok.com/@twice_tiktok_...\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM\nTWICE Official Homepage: http://TWICE.jype.com\nTWICE Official Fan's: http://fans.jype.com/TWICE\n\nⓒ 2023 JYP Entertainment. All Rights Reserved\n\n#TWICE #READYTOBE #SETMEFREE"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vmOrj-vH9IXN927Fs692xPtl9fc",
+      "id": "WbvO3pp-hsE",
+      "snippet": {
+        "publishedAt": "2023-03-10T17:00:31Z",
+        "channelId": "UCR9Gcq0CMm6YgTzsDxAxjOQ",
+        "title": "Limited Life: Episode 2 - BREAD BRIDGE",
+        "description": "Limited Life: Episode 2 Grian is back on minecraft with the new life series! Everyone has 24 hours to survive, if you die, you lose an hour. Last person standing is the winner! We made bad boys bread bridge. It's as weird as it sounds.\n\nMembers:\nGrian: https://www.youtube.com/@grian\nSmallishbeans: https://www.youtube.com/@SmallishBeans\nSmajor1995: https://www.youtube.com/@Dangthatsalongname\nbigbst4tz2: https://www.youtube.com/@Bigbst4tz22\nEtho: https://www.youtube.com/@EthosLab\nBdoubleO100: https://www.youtube.com/@bdoubleo\nPearlescentMoon: https://youtube.com/@PearlescentMoon\nInTheLittleWood: https://www.youtube.com/@martyn\nGoodTimeWithScar: https://www.youtube.com/@GoodTimesWithScar\nimpulseSV: https://www.youtube.com/@impulseSV\nTango: https://www.youtube.com/@TangoTekLP\nZombieCleo: https://www.youtube.com/@ZombieCleo\nSolidarityGaming: https://www.youtube.com/@SolidarityGaming\nSkizzleman: https://www.youtube.com/@MCSkizzleman \n\n#minecraft",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WbvO3pp-hsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WbvO3pp-hsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WbvO3pp-hsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WbvO3pp-hsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WbvO3pp-hsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Grian",
+        "tags": [
+          "Minecraft",
+          "Grian",
+          "building",
+          "grian",
+          "mincraft",
+          "yt:quality=high",
+          "minecraft",
+          "limited life",
+          "last life",
+          "3rd life",
+          "episode 2",
+          "bread bridge"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Limited Life: Episode 2 - BREAD BRIDGE",
+          "description": "Limited Life: Episode 2 Grian is back on minecraft with the new life series! Everyone has 24 hours to survive, if you die, you lose an hour. Last person standing is the winner! We made bad boys bread bridge. It's as weird as it sounds.\n\nMembers:\nGrian: https://www.youtube.com/@grian\nSmallishbeans: https://www.youtube.com/@SmallishBeans\nSmajor1995: https://www.youtube.com/@Dangthatsalongname\nbigbst4tz2: https://www.youtube.com/@Bigbst4tz22\nEtho: https://www.youtube.com/@EthosLab\nBdoubleO100: https://www.youtube.com/@bdoubleo\nPearlescentMoon: https://youtube.com/@PearlescentMoon\nInTheLittleWood: https://www.youtube.com/@martyn\nGoodTimeWithScar: https://www.youtube.com/@GoodTimesWithScar\nimpulseSV: https://www.youtube.com/@impulseSV\nTango: https://www.youtube.com/@TangoTekLP\nZombieCleo: https://www.youtube.com/@ZombieCleo\nSolidarityGaming: https://www.youtube.com/@SolidarityGaming\nSkizzleman: https://www.youtube.com/@MCSkizzleman \n\n#minecraft"
+        },
+        "defaultAudioLanguage": "en-GB"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SAL-uw5jkJgEMHu1D_1c4F5Ci28",
+      "id": "9lM9mfiGR1A",
+      "snippet": {
+        "publishedAt": "2023-03-10T23:24:18Z",
+        "channelId": "UCIv0wH_CdWgttwX6B-Cyt8w",
+        "title": "Bears trade No. 1 overall pick in NFL Draft to Carolina Panthers | NFL | SPEAK",
+        "description": "Emmanuel Acho, LeSean McCoy, Joy Taylor and Ric Bucher react to news the Chicago Bears are trading the first overall pick in the NFL Draft to the Carolina Panthers in exchange for WR D.J Moore, the ninth overall pick and additional draft compensation.\n\n#Speak #NFL #ChicagoBears \n\nDownload the free-to-play FOX Bet Super 6 app: httxs://foxs.pt/3z96p0j\n\nSUBSCRIBE to get all the latest content from Speak: http://sprtspod.fox/SUBSCRIBEtoSpeak\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n \n►Watch the latest content from Speak: http://sprtspod.fox/TheLatestonSpeak\n\n▶ The Carton Show's YouTube channel: http://sprtspod.fox/SubscribeCartonShow\n▶ First Things First's YouTube channel: http://foxs.pt/SubscribeFIRSTTHINGSFIRST\n► UNDISPUTED’s YouTube channel: http://foxs.pt/SubscribeUNDISPUTED \n▶ The Herd with Colin Cowherd’s YouTube channel: http://foxs.pt/SubscribeTHEHERD \n► FOX Bet Live’s YouTube channel: https://foxs.pt/SubscribeFOXBETLIVE\n► Club Shay Shay’s YouTube channel: http://foxs.pt/SubscribeCLUBSHAYSHAY\n► The Skip Bayless Show YouTube Channel: http://sprtspod.fox/SUBSCRIBESkipShow\n► What's Wright? with Nick Wright YouTube channel: http://sprtspod.fox/whatswright/youtube\n\nSee more from Speak: http://foxs.pt/SFYFoxSports\nLike Speak on Facebook: https://www.facebook.com/SpeakOnFS1\nFollow Speak on Twitter: https://twitter.com/SpeakonFS1\nFollow Speak on Instagram: https://www.instagram.com/speakonfs1\nFollow Speak on TikTok: https://www.tiktok.com/@speakonfs1\n\nAbout SPEAK:\nThe revamped SPEAK takes over the airwaves with Emmanuel Acho, LeSean McCoy and Joy Taylor covering the day’s hottest topics in sports and offering their unfiltered takes.\n\nBears trade No. 1 overall pick in NFL Draft to Carolina Panthers | NFL | SPEAK\nhttps://youtu.be/9lM9mfiGR1A\n\nSpeak\nhttps://www.youtube.com/c/SpeakOnFS1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9lM9mfiGR1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9lM9mfiGR1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9lM9mfiGR1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9lM9mfiGR1A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9lM9mfiGR1A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SPEAK",
+        "tags": [
+          "NFL",
+          "Football",
+          "news",
+          "NFL Draft",
+          "NFL breaking news",
+          "SPEAK",
+          "Emmanuel Acho",
+          "Acho",
+          "Joy Taylor",
+          "LeSean McCoy",
+          "Carolina Panthers",
+          "Panthers",
+          "Justin Fields",
+          "Dj Moore",
+          "NFC North",
+          "NFC South",
+          "Ric Bucher",
+          "fs1",
+          "sports news",
+          "breaking news",
+          "reaction",
+          "2023 nfl draft",
+          "offseason moves",
+          "nfl draft trade",
+          "nfc north",
+          "nfc south",
+          "#1 overall pick",
+          "speak on fox sports 1",
+          "speak on fs1"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Bears trade No. 1 overall pick in NFL Draft to Carolina Panthers | NFL | SPEAK",
+          "description": "Emmanuel Acho, LeSean McCoy, Joy Taylor and Ric Bucher react to news the Chicago Bears are trading the first overall pick in the NFL Draft to the Carolina Panthers in exchange for WR D.J Moore, the ninth overall pick and additional draft compensation.\n\n#Speak #NFL #ChicagoBears \n\nDownload the free-to-play FOX Bet Super 6 app: httxs://foxs.pt/3z96p0j\n\nSUBSCRIBE to get all the latest content from Speak: http://sprtspod.fox/SUBSCRIBEtoSpeak\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n \n►Watch the latest content from Speak: http://sprtspod.fox/TheLatestonSpeak\n\n▶ The Carton Show's YouTube channel: http://sprtspod.fox/SubscribeCartonShow\n▶ First Things First's YouTube channel: http://foxs.pt/SubscribeFIRSTTHINGSFIRST\n► UNDISPUTED’s YouTube channel: http://foxs.pt/SubscribeUNDISPUTED \n▶ The Herd with Colin Cowherd’s YouTube channel: http://foxs.pt/SubscribeTHEHERD \n► FOX Bet Live’s YouTube channel: https://foxs.pt/SubscribeFOXBETLIVE\n► Club Shay Shay’s YouTube channel: http://foxs.pt/SubscribeCLUBSHAYSHAY\n► The Skip Bayless Show YouTube Channel: http://sprtspod.fox/SUBSCRIBESkipShow\n► What's Wright? with Nick Wright YouTube channel: http://sprtspod.fox/whatswright/youtube\n\nSee more from Speak: http://foxs.pt/SFYFoxSports\nLike Speak on Facebook: https://www.facebook.com/SpeakOnFS1\nFollow Speak on Twitter: https://twitter.com/SpeakonFS1\nFollow Speak on Instagram: https://www.instagram.com/speakonfs1\nFollow Speak on TikTok: https://www.tiktok.com/@speakonfs1\n\nAbout SPEAK:\nThe revamped SPEAK takes over the airwaves with Emmanuel Acho, LeSean McCoy and Joy Taylor covering the day’s hottest topics in sports and offering their unfiltered takes.\n\nBears trade No. 1 overall pick in NFL Draft to Carolina Panthers | NFL | SPEAK\nhttps://youtu.be/9lM9mfiGR1A\n\nSpeak\nhttps://www.youtube.com/c/SpeakOnFS1"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ORJ8gNGCS-XuhcifwGjxvSWQy0E",
+      "id": "O1E8iJQKG50",
+      "snippet": {
+        "publishedAt": "2023-03-11T00:30:09Z",
+        "channelId": "UCFPoJNd0d4k1H9A6UOlikcg",
+        "title": "ALL ACCESS: David Benavidez vs. Caleb Plant | Full Episode (TV14) | SHOWTIME PPV",
+        "description": "The Emmy® winning original documentary series chronicles the buildup to a must-see attraction as super middleweight stars David Benavidez and Caleb Plant prepare to settle their years-long rivalry at the MGM Grand Garden Arena in Las Vegas.\n\nOrder the fight now: https://sho.com/ppv\n\n#SHOSports #davidbenavidez #calebplant #BenavidezPlant #showtimeppv #boxing #knockouts #kos #allaccess \n\nDon't miss out on the action! Visit the below links to sign up for reminders!\n\nChampionship Boxing: https://s.sho.com/3oiG6RE\nBellator: https://s.sho.com/3eSmXDb\n\nSubscribe to the SHOWTIME Sports YouTube channel: https://goo.gl/s8CWVT\n\nFollow SHOWTIME Sports:\nFacebook: https://www.facebook.com/ShoSports/\nTwitter: https://twitter.com/SHOsports\nInstagram: https://instagram.com/shosports\nOfficial Site: https://www.sho.com/sports\n\nFollow SHOWTIME Boxing:\nFacebook: https://www.facebook.com/ShoBoxing\nTwitter: https://twitter.com/ShowtimeBoxing\nInstagram: https://instagram.com/showtimeboxing\nSnapchat: https://www.snapchat.com/add/showtimeboxing\nTumblr: http://showtimeboxing.tumblr.com/\n\nFollow SHOWTIME Basketball:\nInstagram: https://www.instagram.com/showtimebasketball\nTwitter: https://twitter.com/shobasketball\n\nFollow ALL THE SMOKE:\nInstagram: https://www.instagram.com/allthesmoke/\nYouTube: https://bit.ly/2OLkr50 \n\nFollow BELOW THE BELT with Brendan Schaub:\nFacebook: https://www.facebook.com/BelowTheBeltSHO\nTwitter: https://twitter.com/btbshowtime\nInstagram: https://www.instagram.com/belowthebelt/\nYouTube: http://s.sho.com/BelowtheBelt\n\nFollow MORNING KOMBAT:\nInstagram: https://www.instagram.com/morningkombat/\nYouTube: https://bit.ly/2lPpvsj\n\nFollow INSIDE THE NFL:\nFacebook: https://www.facebook.com/insidetheNFL\nTwitter: https://twitter.com/insidetheNFL\nInstagram: https://www.instagram.com/insidetheNFL/\n\nFollow 4th and Forever:\nInstagram: https://www.instagram.com/4thandforever/\nYouTube: http://bit.ly/30iZqSZ\n\nFollow SHOWTIME:\nFacebook: https://www.facebook.com/showtime\nTwitter: https://twitter.com/Showtime\nInstagram: https://instagram.com/showtime/\nYoutube: https://www.youtube.com/user/SHOWTIME\nOfficial Site: https://www.sho.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O1E8iJQKG50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O1E8iJQKG50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O1E8iJQKG50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O1E8iJQKG50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O1E8iJQKG50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SHOWTIME Sports",
+        "tags": [
+          "showtime",
+          "shosports",
+          "sports",
+          "Showtime Boxing",
+          "Boxing",
+          "Shosports",
+          "Showtime Boxing PPV",
+          "Showtime PPV",
+          "Press Conference",
+          "boxer",
+          "Ufc",
+          "David benavidez",
+          "Caleb Plant",
+          "Benavidez Plant",
+          "david benavidez highlights",
+          "caleb plant",
+          "caleb plant vs david benavidez",
+          "caleb plant vs anthony dirrell",
+          "Canelo",
+          "jermell charlo",
+          "jermell charlo vs tony harrison 2",
+          "David benavidez Caleb Plant",
+          "Knockouts",
+          "boxing knockouts",
+          "KOs",
+          "Boxing KOs",
+          "all access boxing",
+          "all access gervonta davis",
+          "all access showtime"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ALL ACCESS: David Benavidez vs. Caleb Plant | Full Episode (TV14) | SHOWTIME PPV",
+          "description": "The Emmy® winning original documentary series chronicles the buildup to a must-see attraction as super middleweight stars David Benavidez and Caleb Plant prepare to settle their years-long rivalry at the MGM Grand Garden Arena in Las Vegas.\n\nOrder the fight now: https://sho.com/ppv\n\n#SHOSports #davidbenavidez #calebplant #BenavidezPlant #showtimeppv #boxing #knockouts #kos #allaccess \n\nDon't miss out on the action! Visit the below links to sign up for reminders!\n\nChampionship Boxing: https://s.sho.com/3oiG6RE\nBellator: https://s.sho.com/3eSmXDb\n\nSubscribe to the SHOWTIME Sports YouTube channel: https://goo.gl/s8CWVT\n\nFollow SHOWTIME Sports:\nFacebook: https://www.facebook.com/ShoSports/\nTwitter: https://twitter.com/SHOsports\nInstagram: https://instagram.com/shosports\nOfficial Site: https://www.sho.com/sports\n\nFollow SHOWTIME Boxing:\nFacebook: https://www.facebook.com/ShoBoxing\nTwitter: https://twitter.com/ShowtimeBoxing\nInstagram: https://instagram.com/showtimeboxing\nSnapchat: https://www.snapchat.com/add/showtimeboxing\nTumblr: http://showtimeboxing.tumblr.com/\n\nFollow SHOWTIME Basketball:\nInstagram: https://www.instagram.com/showtimebasketball\nTwitter: https://twitter.com/shobasketball\n\nFollow ALL THE SMOKE:\nInstagram: https://www.instagram.com/allthesmoke/\nYouTube: https://bit.ly/2OLkr50 \n\nFollow BELOW THE BELT with Brendan Schaub:\nFacebook: https://www.facebook.com/BelowTheBeltSHO\nTwitter: https://twitter.com/btbshowtime\nInstagram: https://www.instagram.com/belowthebelt/\nYouTube: http://s.sho.com/BelowtheBelt\n\nFollow MORNING KOMBAT:\nInstagram: https://www.instagram.com/morningkombat/\nYouTube: https://bit.ly/2lPpvsj\n\nFollow INSIDE THE NFL:\nFacebook: https://www.facebook.com/insidetheNFL\nTwitter: https://twitter.com/insidetheNFL\nInstagram: https://www.instagram.com/insidetheNFL/\n\nFollow 4th and Forever:\nInstagram: https://www.instagram.com/4thandforever/\nYouTube: http://bit.ly/30iZqSZ\n\nFollow SHOWTIME:\nFacebook: https://www.facebook.com/showtime\nTwitter: https://twitter.com/Showtime\nInstagram: https://instagram.com/showtime/\nYoutube: https://www.youtube.com/user/SHOWTIME\nOfficial Site: https://www.sho.com/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "R728zMI2VsVMwbD4z-Neoiv0N34",
+      "id": "U9Ct5nKarIU",
+      "snippet": {
+        "publishedAt": "2023-03-10T23:02:53Z",
+        "channelId": "UCPJHQ5_DLtxZ1gzBvZE99_g",
+        "title": "iDubbbz addresses controversial past - I spent a day with IDUBBBZ",
+        "description": "⭐️ Become a member and watch this series UNCENSORED & AD FREE: https://www.youtube.com/anthonypadilla/join. \nI spent a day with idubbbz to learn the truth about creator clash and his past ▸ This episode is sponsored by Betterhelp - go to http://betterhelp.com/padilla to get 10% off your first month ▸ Go to http://joinhoney.com/padilla to get PayPal Honey for free.\n\n🎙THE PODCAST\nSpotify ▸ https://open.spotify.com/show/5aOLuPenneHbhLh05fmkeu  \nApple ▸ https://podcasts.apple.com/us/podcast/i-spent-a-day-with/id1550213250  \n\n💥NEW YOUTOOZ FIGURE: https://youtooz.com/products/anthony-padilla \n\n🧨HUGE thank you to idubbbz:\nINSTAGRAM:https://www.instagram.com/idubbbz/?hl=en\nYOUTUBE: https://www.youtube.com/@iDubbbzTV/videos\n\n🗯MORE EPISODES…\n▸ HOWIE MANDEL - https://youtu.be/qyqlcNUADC4\n▸ LUDWIG - https://youtu.be/tpXLJq3YZyk\n▸ SAPNAP - https://youtu.be/s8SI39YjP70\n\n🎥Crew\n▸ Creator, Director, Writer, etc - Anthony Padilla\n▸ Executive Producer - Alessandra Catanese\n▸ Producer, Co-writer & Research - Elise Felber\n▸ Director of Photography/Gaffer - Kathy Sue Holtorf\n▸ Camera Operator - Amber Steele\n▸ Social Media Manager - Mallory Myers\n▸ Editor - Mike Criscimagna AKA Mork Crispy\n▸ Assistant Editor - Patrick Horba\n▸ Assistant Editor - Ash Duckworth\n▸ Assistant Editor - Nikki Blacklock\n▸ Sound Editor - Gareth Hird\n▸ Post PA - Levi Villalpando\n▸ PA - Joshua Dozier\n▸ Thumbnail Artist - Dill Toma\n▸ Captions - Davy Gerichten\n\n🎵Theme Music Composer - Matt Good AKA The King of Emo \n🖼Portrait painted by: Rhianna Robles - https://instagram.com/zerogattsu\n🦥Slade mascot built by: The Pastel Prince - https://youtube.com/channel/UC7wq2U4FF2NyZD1o_P8QP0g \n\n\n📢BE ON THE SHOW\n▸ If you are part of an underrepresented subculture or live a lifestyle you feel is not widely understood and would like to be interviewed by me, email inquiry[at]pressalike.com with your subculture in the title of the email.\n\n❗️You dug this deep into the description. You owe it to yourself to subscribe ▶ https://youtube.com/subscription_center?add_user=AnthonyPadilla or get more at http://instagram.com/anthonypadilla & http://twitter.com/anthonypadilla\n\n0:00 INTRODUCTION\n4:13 DOING FULFILLING PROJECTS\n6:27 BEING VULNERABLE\n11:00 INTERACTING WITH FANS\n14:55 SPONSOR\n17:03 IDUBBBZ'S CHILDHOOD\n22:32 HIDING EMOTIONS\n24:49 STARTING YOUTUBE\n28:14 CREATOR CLASH\n34:54 WHAT'S NEXT FOR IDUBBBZ\n37:10 BLOOPER",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U9Ct5nKarIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U9Ct5nKarIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U9Ct5nKarIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U9Ct5nKarIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U9Ct5nKarIU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AnthonyPadilla",
+        "tags": [
+          "anthony padilla",
+          "padilla",
+          "anthony",
+          "i spent a day with",
+          "interview"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "iDubbbz addresses controversial past - I spent a day with IDUBBBZ",
+          "description": "⭐️ Become a member and watch this series UNCENSORED & AD FREE: https://www.youtube.com/anthonypadilla/join. \nI spent a day with idubbbz to learn the truth about creator clash and his past ▸ This episode is sponsored by Betterhelp - go to http://betterhelp.com/padilla to get 10% off your first month ▸ Go to http://joinhoney.com/padilla to get PayPal Honey for free.\n\n🎙THE PODCAST\nSpotify ▸ https://open.spotify.com/show/5aOLuPenneHbhLh05fmkeu  \nApple ▸ https://podcasts.apple.com/us/podcast/i-spent-a-day-with/id1550213250  \n\n💥NEW YOUTOOZ FIGURE: https://youtooz.com/products/anthony-padilla \n\n🧨HUGE thank you to idubbbz:\nINSTAGRAM:https://www.instagram.com/idubbbz/?hl=en\nYOUTUBE: https://www.youtube.com/@iDubbbzTV/videos\n\n🗯MORE EPISODES…\n▸ HOWIE MANDEL - https://youtu.be/qyqlcNUADC4\n▸ LUDWIG - https://youtu.be/tpXLJq3YZyk\n▸ SAPNAP - https://youtu.be/s8SI39YjP70\n\n🎥Crew\n▸ Creator, Director, Writer, etc - Anthony Padilla\n▸ Executive Producer - Alessandra Catanese\n▸ Producer, Co-writer & Research - Elise Felber\n▸ Director of Photography/Gaffer - Kathy Sue Holtorf\n▸ Camera Operator - Amber Steele\n▸ Social Media Manager - Mallory Myers\n▸ Editor - Mike Criscimagna AKA Mork Crispy\n▸ Assistant Editor - Patrick Horba\n▸ Assistant Editor - Ash Duckworth\n▸ Assistant Editor - Nikki Blacklock\n▸ Sound Editor - Gareth Hird\n▸ Post PA - Levi Villalpando\n▸ PA - Joshua Dozier\n▸ Thumbnail Artist - Dill Toma\n▸ Captions - Davy Gerichten\n\n🎵Theme Music Composer - Matt Good AKA The King of Emo \n🖼Portrait painted by: Rhianna Robles - https://instagram.com/zerogattsu\n🦥Slade mascot built by: The Pastel Prince - https://youtube.com/channel/UC7wq2U4FF2NyZD1o_P8QP0g \n\n\n📢BE ON THE SHOW\n▸ If you are part of an underrepresented subculture or live a lifestyle you feel is not widely understood and would like to be interviewed by me, email inquiry[at]pressalike.com with your subculture in the title of the email.\n\n❗️You dug this deep into the description. You owe it to yourself to subscribe ▶ https://youtube.com/subscription_center?add_user=AnthonyPadilla or get more at http://instagram.com/anthonypadilla & http://twitter.com/anthonypadilla\n\n0:00 INTRODUCTION\n4:13 DOING FULFILLING PROJECTS\n6:27 BEING VULNERABLE\n11:00 INTERACTING WITH FANS\n14:55 SPONSOR\n17:03 IDUBBBZ'S CHILDHOOD\n22:32 HIDING EMOTIONS\n24:49 STARTING YOUTUBE\n28:14 CREATOR CLASH\n34:54 WHAT'S NEXT FOR IDUBBBZ\n37:10 BLOOPER"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4yWVeW7y4Z6xBZcpHkD8efUeKDs",
+      "id": "goCoXdp7k2E",
+      "snippet": {
+        "publishedAt": "2023-03-10T03:00:11Z",
+        "channelId": "UClG8odDC8TS6Zpqk9CGVQiQ",
+        "title": "Fortnite Chapter 4 Season 2 MEGA Cinematic Trailer",
+        "description": "Watch the Fortnite Battle Royale Chapter 4 Season 2 cinematic trailer and then play the game - https://www.fortnite.com/chapter-4-season-2\n\nBecome MEGA in Fortnite Battle Royale Chapter 4 Season 2. Ride the grind rails of “MEGA City” and swerve on its streets on a sports bike. Go beyond the neon towers to the rest of the new biome: cause Havoc at “Steamy Springs,” drive a \"\"Nitro Drifter\"\" to the \"\"Drift Ridge\"\" car track, sharpen your \"\"Kinetic Blade\"\" skills at “Kenjutsu Crossing,” and more!\n\n#Fortnite #FortniteCinematicTrailer #FortniteMEGA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/goCoXdp7k2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/goCoXdp7k2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/goCoXdp7k2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/goCoXdp7k2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/goCoXdp7k2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fortnite",
+        "tags": [
+          "yt:cc=on",
+          "fortnite",
+          "fortnite trailer",
+          "fortnite season trailer",
+          "fortnite cinematic trailer",
+          "fortnite chapter 4 season 2",
+          "fortnite chapter 4 season 2 cinematic trailer",
+          "fortnite chapter 4 season 2 trailer",
+          "fortnite chapter 4 season 2 mega",
+          "fortnite mega",
+          "fortnite chapter 4 season 2 mega trailer"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Fortnite Chapter 4 Season 2 MEGA Cinematic Trailer",
+          "description": "Watch the Fortnite Battle Royale Chapter 4 Season 2 cinematic trailer and then play the game - https://www.fortnite.com/chapter-4-season-2\n\nBecome MEGA in Fortnite Battle Royale Chapter 4 Season 2. Ride the grind rails of “MEGA City” and swerve on its streets on a sports bike. Go beyond the neon towers to the rest of the new biome: cause Havoc at “Steamy Springs,” drive a \"\"Nitro Drifter\"\" to the \"\"Drift Ridge\"\" car track, sharpen your \"\"Kinetic Blade\"\" skills at “Kenjutsu Crossing,” and more!\n\n#Fortnite #FortniteCinematicTrailer #FortniteMEGA"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gsclIxeaQ9ANqKprSQ49lDP9kww",
+      "id": "v_4fljfr2r4",
+      "snippet": {
+        "publishedAt": "2023-03-10T05:00:09Z",
+        "channelId": "UCdI8evszfZvyAl2UVCypkTA",
+        "title": "Miley Cyrus - River (Official Video)",
+        "description": "Official Video for “River” by Miley Cyrus\n \nListen to & Download “Endless Summer Vacation” out now: https://mileycyrus.lnk.to/EndlessSummerVacation\n \nPurchase Limited Vinyl: https://mileycyrus.lnk.to/EndlessSummerVacation/Merch\n \nDirector: Jacob Bixenman\nProducer: Daniel Lachman\nDP: Adam Newport-Berra\nEditor: Brendan Walter\nExecutive Producer:  Jennifer Heath, Bryan Younce\nProd Co: RadicalMedia\n \nConnect with Miley\nSite: http://mileycyrus.com\nTwitter: https://mileyl.ink/twitter\nInstagram: https://mileyl.ink/instagram\nTikTok: https://mileyl.ink/tiktok\nFacebook: https://mileyl.ink/facebook\nDiscord: https://discord.com/invite/mileycyrus\n \nLyrics:\nI got a new dress\nJust to meet you downtown\nWill you walk me through the park just to show it off\nI can pull my hair back in that tight way that you like\nIf you wrap me in your arms and you never stop\n \nHeart beats so loud that it’s drowning me out\nLiving in an April shower\nYou’re pouring down\nBaby drown me out\n \nYou’re just like a river\nYou’re just like a river\nYou go on forever\nYou’re just like a river\n \nBlowing bubbles in the bath\nI can’t stop from thinking lately\nYou could be the one\nHave the honor of my babies\nHope they have your eyes and that crooked smile\nWas a desert before I met you\nI was in a drought\n \nHeart beats so loud that it’s drowning me out\nLiving in an April shower\nYou’re pouring down\nBaby drown me out\n \nYou’re just like a river\nYou’re just like a river\nYou go on forever\nYou’re just like a river\n \nYou’re never running dry\n \nI feel you everywhere\nYour face is all in my hair\nCovered up in your sweat\nIt turns me on that you care, baby\nYour love, it flows just like a river\n \nYou’re just like a river (That’s what you are)\n \nYou’re just like a river (Heart beats so loud that it’s drowning me out)\nYou’re just like a river (Living in an April shower)\nYou go on forever (You’re pouring down, baby drown me out)\nYou’re just like a river\n \n#MileyCyrus #River #EndlessSummerVacation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v_4fljfr2r4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v_4fljfr2r4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v_4fljfr2r4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v_4fljfr2r4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v_4fljfr2r4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MileyCyrusVEVO",
+        "tags": [
+          "Miley",
+          "Cyrus",
+          "Miley New Album",
+          "Endless Summer Vacation",
+          "ESV",
+          "Flowers",
+          "can buy myself flowers",
+          "can hold my own hand",
+          "can love me better",
+          "than you can",
+          "Hannah Montana",
+          "Backyard Sessions",
+          "Disney",
+          "Disney Plus",
+          "letra de River",
+          "letra de Miley Cyrus",
+          "letra de Flowers",
+          "Música de Miley Cyrus",
+          "Mais Tocadas de Miley Cyrus",
+          "Hits do Miley Cyrus",
+          "melhor de Miley Cyrus",
+          "Sucessos de Miley Cyrus",
+          "Vídeo de Miley Cyrus",
+          "Columbia",
+          "Miley Cyrus",
+          "Pop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Miley Cyrus - River (Official Video)",
+          "description": "Official Video for “River” by Miley Cyrus\n \nListen to & Download “Endless Summer Vacation” out now: https://mileycyrus.lnk.to/EndlessSummerVacation\n \nPurchase Limited Vinyl: https://mileycyrus.lnk.to/EndlessSummerVacation/Merch\n \nDirector: Jacob Bixenman\nProducer: Daniel Lachman\nDP: Adam Newport-Berra\nEditor: Brendan Walter\nExecutive Producer:  Jennifer Heath, Bryan Younce\nProd Co: RadicalMedia\n \nConnect with Miley\nSite: http://mileycyrus.com\nTwitter: https://mileyl.ink/twitter\nInstagram: https://mileyl.ink/instagram\nTikTok: https://mileyl.ink/tiktok\nFacebook: https://mileyl.ink/facebook\nDiscord: https://discord.com/invite/mileycyrus\n \nLyrics:\nI got a new dress\nJust to meet you downtown\nWill you walk me through the park just to show it off\nI can pull my hair back in that tight way that you like\nIf you wrap me in your arms and you never stop\n \nHeart beats so loud that it’s drowning me out\nLiving in an April shower\nYou’re pouring down\nBaby drown me out\n \nYou’re just like a river\nYou’re just like a river\nYou go on forever\nYou’re just like a river\n \nBlowing bubbles in the bath\nI can’t stop from thinking lately\nYou could be the one\nHave the honor of my babies\nHope they have your eyes and that crooked smile\nWas a desert before I met you\nI was in a drought\n \nHeart beats so loud that it’s drowning me out\nLiving in an April shower\nYou’re pouring down\nBaby drown me out\n \nYou’re just like a river\nYou’re just like a river\nYou go on forever\nYou’re just like a river\n \nYou’re never running dry\n \nI feel you everywhere\nYour face is all in my hair\nCovered up in your sweat\nIt turns me on that you care, baby\nYour love, it flows just like a river\n \nYou’re just like a river (That’s what you are)\n \nYou’re just like a river (Heart beats so loud that it’s drowning me out)\nYou’re just like a river (Living in an April shower)\nYou go on forever (You’re pouring down, baby drown me out)\nYou’re just like a river\n \n#MileyCyrus #River #EndlessSummerVacation"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AuFGKa2rZvHq6UnlecsBYmmkQmU",
+      "id": "JWxQ2OVrk3w",
+      "snippet": {
+        "publishedAt": "2023-03-10T20:42:10Z",
+        "channelId": "UCFmhLDjF1bB6-rbv9TBqeQg",
+        "title": "I Busted 31 Myths in Season 2!",
+        "description": "I Busted 31 Myths in Fortnite chapter 4 Season 2! I Busted every myth from the new update chapter 4 season 2 update!! SUBSCRIBE FOR VBUCKS \n\nTalk to me ⤵️\n🔊 Join My Discord! https://discord.gg/DmkxjHE\n🥶 Follow My Twitter! https://twitter.com/Mileniooo\n\n🔊 Subscribe to my 2nd Channel! @miloreacts \n#milo #fortnite #myths\n\nMyths:\n0:00 - Grind Rails save you from fall damage\n0:10 - 200 pumping is back!\n0:32 - bamboo stacks prevent fall damage\n0:45 - New Sport Bikes can wall ride\n1:00 - Wall running is in the game\n1:10 - you can fish players out of vehicles \n1:23 - sport bike is faster than dirt bike\n1:38 - Kinetic blade farms materials faster than pickaxe\n1:50 - You can trickshot in season 2\n2:12 - kinetic blade saves you from fall damage\n2:30 - New car faster then old car\n2:45 - fortnite tesla collab\n2:56 - kinetic blade gets you into enemy boxes every time\n3:10 - you can only carry one kinetic blade\n3:23 - which one of the new vehicles is faster\n3:42 - you can use grind rails while knocked\n4:03 - kinetic blade blocks bullets\n4:40 - season 2 battle pass emote pay to win\n4:50 - Fortnite STILL sus?!\n5:01 - Sport Bikes Nerfed on dirt\n5:15 - Fortnite Sus\n5:25 - Trees aimbot again?\n5:38 - Building in Mega City are Fake\n6:00 - kinetic blade dash + launch pad send you higher\n6:18 - Fireflies are broken \n6:31 - Season 2 Battle Pass is Free\n6:55 - DMR is broken (pov glitch)\n7:17 - Level up really fast in season 2 (XP Map)\n7:34 - You can shoot enemies through walls \n7:50 - Chapter 4 Season 2 Free VBucks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JWxQ2OVrk3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JWxQ2OVrk3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JWxQ2OVrk3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JWxQ2OVrk3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JWxQ2OVrk3w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SoaR Milo",
+        "tags": [
+          "fortnite",
+          "fortnite myths",
+          "busting myths in fortnite",
+          "I Busted 30 TikTok Myths in Fortnite",
+          "I Busted 50 Myths in Chapter 4",
+          "I Busted 100 Fortnite myths in 24 hours",
+          "milo",
+          "soar milo",
+          "I Busted 42 Myths in Fortnite",
+          "busting tiktok myths",
+          "i busted tiktok myths in fortnite",
+          "fortnite battle royale",
+          "busting fortnite myths",
+          "busting myths",
+          "busting myths in chapter 4",
+          "chapter 4",
+          "busting every fortnite myth",
+          "season 2",
+          "chapter 4 season 2",
+          "new fortnite",
+          "fortnite season 2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Busted 31 Myths in Season 2!",
+          "description": "I Busted 31 Myths in Fortnite chapter 4 Season 2! I Busted every myth from the new update chapter 4 season 2 update!! SUBSCRIBE FOR VBUCKS \n\nTalk to me ⤵️\n🔊 Join My Discord! https://discord.gg/DmkxjHE\n🥶 Follow My Twitter! https://twitter.com/Mileniooo\n\n🔊 Subscribe to my 2nd Channel! @miloreacts \n#milo #fortnite #myths\n\nMyths:\n0:00 - Grind Rails save you from fall damage\n0:10 - 200 pumping is back!\n0:32 - bamboo stacks prevent fall damage\n0:45 - New Sport Bikes can wall ride\n1:00 - Wall running is in the game\n1:10 - you can fish players out of vehicles \n1:23 - sport bike is faster than dirt bike\n1:38 - Kinetic blade farms materials faster than pickaxe\n1:50 - You can trickshot in season 2\n2:12 - kinetic blade saves you from fall damage\n2:30 - New car faster then old car\n2:45 - fortnite tesla collab\n2:56 - kinetic blade gets you into enemy boxes every time\n3:10 - you can only carry one kinetic blade\n3:23 - which one of the new vehicles is faster\n3:42 - you can use grind rails while knocked\n4:03 - kinetic blade blocks bullets\n4:40 - season 2 battle pass emote pay to win\n4:50 - Fortnite STILL sus?!\n5:01 - Sport Bikes Nerfed on dirt\n5:15 - Fortnite Sus\n5:25 - Trees aimbot again?\n5:38 - Building in Mega City are Fake\n6:00 - kinetic blade dash + launch pad send you higher\n6:18 - Fireflies are broken \n6:31 - Season 2 Battle Pass is Free\n6:55 - DMR is broken (pov glitch)\n7:17 - Level up really fast in season 2 (XP Map)\n7:34 - You can shoot enemies through walls \n7:50 - Chapter 4 Season 2 Free VBucks"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ezx1USgNT8YSCUZCOYq_2dFLHmg",
+      "id": "0YKOxtOb44c",
+      "snippet": {
+        "publishedAt": "2023-03-09T17:00:10Z",
+        "channelId": "UCI3H1FsjbdqGcLq93ZilV5g",
+        "title": "NF - MOTTO",
+        "description": "Official music video for “MOTTO” by NF.\nNew album HOPE available April 7. \nSubscribe to NFrealmusic on YouTube: https://nf.lnk.to/youtubeID\n\nPlay the official video playlist here: https://NF.lnk.to/youtubeplaylistID\n\nPre-Order HOPE\nSigned CD + Vinyl: https://nf.lnk.to/hopeID/nf\nPre-Save on Spotify: https://nf.lnk.to/hopeID/spotifypresave\nPre-Add on Apple Music: https://nf.lnk.to/hopeID/applemusic\nPre-order on iTunes: https://nf.lnk.to/hopeID/itunes\nPre-order on Amazon: https://nf.lnk.to/hopeID/amazonmp3manual\n\nStream ‘MOTTO’\nSpotify: https://nf.lnk.to/hopeID/spotify\nApple Music: https://nf.lnk.to/hopeID/applemusic\nAmazon Music: https://nf.lnk.to/hopeID/amazonmusic\nPandora: https://nf.lnk.to/hopeID/pandora\nSoundCloud: https://nf.lnk.to/hopeID/soundcloud\n\nFollow NF \nInstagram: https://instagram.com/nfrealmusic\nFacebook: http://facebook.com/nfrealmusic\nTwitter: http://twitter.com/nfrealmusic\nSpotify: https://nf.lnk.to/spotifyYD\nWebsite: http://www.nfrealmusic.com\nEmail: https://nf.lnk.to/emailYD\n\nProducer: Nathan Feuerstein & Patrick Tohill\nDirector: Patrick Tohill & Nathan Feuerstein\n\n#NF #HOPE #NFHOPE\n\nMusic video by NF performing MOTTO. © 2023 NF Real Music, LLC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0YKOxtOb44c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0YKOxtOb44c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0YKOxtOb44c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0YKOxtOb44c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0YKOxtOb44c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NFVEVO",
+        "tags": [
+          "HOPE",
+          "NF HOPE",
+          "HOPE NF",
+          "MOTTO music video",
+          "NF MOTTO music video",
+          "New NF",
+          "New NF music video",
+          "New NF video",
+          "NF music video",
+          "MOTTO video",
+          "music video",
+          "MOTTO official music video",
+          "NF MOTTO",
+          "MOTTO song",
+          "NF MOTTO song",
+          "MOTTO lyrics",
+          "New NF song",
+          "MOTTO rap",
+          "NF 2023",
+          "MOTTO audio",
+          "nfrealmusic",
+          "nf fans",
+          "nf official",
+          "NF lyrics",
+          "nf real music",
+          "new NF album",
+          "new NF music",
+          "NF red carpet",
+          "NF award show",
+          "NF that's my motto",
+          "that's my motto",
+          "if it aint broke"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NF - MOTTO",
+          "description": "Official music video for “MOTTO” by NF.\nNew album HOPE available April 7. \nSubscribe to NFrealmusic on YouTube: https://nf.lnk.to/youtubeID\n\nPlay the official video playlist here: https://NF.lnk.to/youtubeplaylistID\n\nPre-Order HOPE\nSigned CD + Vinyl: https://nf.lnk.to/hopeID/nf\nPre-Save on Spotify: https://nf.lnk.to/hopeID/spotifypresave\nPre-Add on Apple Music: https://nf.lnk.to/hopeID/applemusic\nPre-order on iTunes: https://nf.lnk.to/hopeID/itunes\nPre-order on Amazon: https://nf.lnk.to/hopeID/amazonmp3manual\n\nStream ‘MOTTO’\nSpotify: https://nf.lnk.to/hopeID/spotify\nApple Music: https://nf.lnk.to/hopeID/applemusic\nAmazon Music: https://nf.lnk.to/hopeID/amazonmusic\nPandora: https://nf.lnk.to/hopeID/pandora\nSoundCloud: https://nf.lnk.to/hopeID/soundcloud\n\nFollow NF \nInstagram: https://instagram.com/nfrealmusic\nFacebook: http://facebook.com/nfrealmusic\nTwitter: http://twitter.com/nfrealmusic\nSpotify: https://nf.lnk.to/spotifyYD\nWebsite: http://www.nfrealmusic.com\nEmail: https://nf.lnk.to/emailYD\n\nProducer: Nathan Feuerstein & Patrick Tohill\nDirector: Patrick Tohill & Nathan Feuerstein\n\n#NF #HOPE #NFHOPE\n\nMusic video by NF performing MOTTO. © 2023 NF Real Music, LLC"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Jp7moCL3vY9cKzrpjcsv1ZQLI0A",
+      "id": "rs8YIhsbZxg",
+      "snippet": {
+        "publishedAt": "2023-03-10T07:00:08Z",
+        "channelId": "UClG8odDC8TS6Zpqk9CGVQiQ",
+        "title": "Fortnite Chapter 4 Season 2 Launch Gameplay Trailer",
+        "description": "Watch the Fortnite Chapter 4 Season 2 gameplay trailer and then play Fortnite Battle Royale now - https://www.fortnite.com/chapter-4-season-2\n\nNew city, new streets. Be a flash of light with the sleek, aerodynamic “Victory Crown Rogue” (a.k.a. “Rogue Bike”). This two-person sports bike features high acceleration, sharp turning, and a boost-ready engine. Prefer a four-wheel ride? Get in the “Nitro Drifter” and use its handbrake to drift ‘round the bend.\n\nCome out swinging when you’re done swerving: acquire a “Kinetic Blade” and perform the artful “Knockback Slash.” Not holding back? Show no mercy and perform the devastating “Dash Attack.”\n\nThe streets aren’t the only way to get about MEGA City. Jump on its grind rails then skate around the buildings and your enemies. Even use your weapons as you ride!\n\nNeed a break from urban battle? Step foot on the fresh, teal-tinted grass of MEGA City’s surroundings. This city isn’t the only new location in Chapter 4 Season 2 — it’s just one part of a brand new biome! See the cherry blossoms of “Steamy Springs,” fish in the waters of “Knotty Nets,” hone your skills at “Kenjutsu Crossing,” and more.\n\nLook mega good with Chapter 4 Season 2’s Battle Pass Outfits. With the Chapter 4 Season 2 Battle Pass purchase, you’ll auto-unlock the fine-tailored “Renzo the Destroyer.” Progress through the Battle Pass to unlock other Outfits, including the streetwear savant “Thunder,” the elegantly casual “Highwire,” and more.  \n\nLater in the Season, unlock another Outfit in the Battle Pass: anime protagonist “Eren Jaeger”!\n\n#Fortnite #FortniteGameplayTrailer #FortniteMEGA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rs8YIhsbZxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rs8YIhsbZxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rs8YIhsbZxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rs8YIhsbZxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rs8YIhsbZxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fortnite",
+        "tags": [
+          "yt:cc=on",
+          "fortnite",
+          "fortnite trailer",
+          "fortnite season trailer",
+          "fortnite gameplay trailer",
+          "fortnite mega",
+          "fortnite chapter 4 season 2 mega",
+          "fortnite mega city",
+          "fortnite victory crown rogue",
+          "fortnite kinetic blade",
+          "fortnite knockback slash",
+          "fortnite battle pass",
+          "fortnite battle pass outfits"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Fortnite Chapter 4 Season 2 Launch Gameplay Trailer",
+          "description": "Watch the Fortnite Chapter 4 Season 2 gameplay trailer and then play Fortnite Battle Royale now - https://www.fortnite.com/chapter-4-season-2\n\nNew city, new streets. Be a flash of light with the sleek, aerodynamic “Victory Crown Rogue” (a.k.a. “Rogue Bike”). This two-person sports bike features high acceleration, sharp turning, and a boost-ready engine. Prefer a four-wheel ride? Get in the “Nitro Drifter” and use its handbrake to drift ‘round the bend.\n\nCome out swinging when you’re done swerving: acquire a “Kinetic Blade” and perform the artful “Knockback Slash.” Not holding back? Show no mercy and perform the devastating “Dash Attack.”\n\nThe streets aren’t the only way to get about MEGA City. Jump on its grind rails then skate around the buildings and your enemies. Even use your weapons as you ride!\n\nNeed a break from urban battle? Step foot on the fresh, teal-tinted grass of MEGA City’s surroundings. This city isn’t the only new location in Chapter 4 Season 2 — it’s just one part of a brand new biome! See the cherry blossoms of “Steamy Springs,” fish in the waters of “Knotty Nets,” hone your skills at “Kenjutsu Crossing,” and more.\n\nLook mega good with Chapter 4 Season 2’s Battle Pass Outfits. With the Chapter 4 Season 2 Battle Pass purchase, you’ll auto-unlock the fine-tailored “Renzo the Destroyer.” Progress through the Battle Pass to unlock other Outfits, including the streetwear savant “Thunder,” the elegantly casual “Highwire,” and more.  \n\nLater in the Season, unlock another Outfit in the Battle Pass: anime protagonist “Eren Jaeger”!\n\n#Fortnite #FortniteGameplayTrailer #FortniteMEGA"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2J_Gl5vQhwN5XWJXIIuH2rJzrcc",
+      "id": "1GbBySH3A6w",
+      "snippet": {
+        "publishedAt": "2023-03-09T22:19:49Z",
+        "channelId": "UCf8YPuOWXlpTS7RibaJlP4g",
+        "title": "Man. United vs. Real Betis: Extended Highlights | UEL Round of 16 - 1st Leg | CBS Sports Golazo",
+        "description": "Manchester United has regained the form that has seen them atop club soccer in decades past. Will they overcome Real Betis and lift silverware once again?\n\nStream UEFA Matches on Paramount+:\nhttps://www.paramountplus.com/shows/uefa-champions-league/\nhttps://www.paramountplus.com/shows/uefa-europa-league/\nhttps://www.paramountplus.com/shows/uefa-europa-conference-league/\n\n#Soccer #UEFA #Futbol #UEL #manunited #manchesterunited #realbetis",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1GbBySH3A6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1GbBySH3A6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1GbBySH3A6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1GbBySH3A6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1GbBySH3A6w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBS Sports Golazo - Europe",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Man. United vs. Real Betis: Extended Highlights | UEL Round of 16 - 1st Leg | CBS Sports Golazo",
+          "description": "Manchester United has regained the form that has seen them atop club soccer in decades past. Will they overcome Real Betis and lift silverware once again?\n\nStream UEFA Matches on Paramount+:\nhttps://www.paramountplus.com/shows/uefa-champions-league/\nhttps://www.paramountplus.com/shows/uefa-europa-league/\nhttps://www.paramountplus.com/shows/uefa-europa-conference-league/\n\n#Soccer #UEFA #Futbol #UEL #manunited #manchesterunited #realbetis"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
