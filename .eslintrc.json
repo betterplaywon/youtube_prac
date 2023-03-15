@@ -11,11 +11,14 @@
   },
   "extends": [
     "plugin:@typescript-eslint/recommended",
-    "plugin:prettier/recommended",
     "prettier/@typescript-eslint",
-    "next/core-web-vitals"
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "next/core-web-vitals",
+    "plugin:prettier/recommended"
   ],
   "rules": {
+    "@typescript-eslint/explicit-module-boundary-types": "off",
     "react/react-in-jsx-scope": "off",
     "react/jsx-filename-extension": [1, { "extensions": [".ts", ".tsx"] }]
   }
