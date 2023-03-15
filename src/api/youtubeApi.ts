@@ -13,7 +13,7 @@ export default class YoutubeAPI {
       .search({
         params: {
           part: "snippet",
-          maxResult: 25,
+          maxResults: 50,
           type: "video",
           relatedTovideoId: id,
         },
@@ -43,7 +43,7 @@ export default class YoutubeAPI {
       .search({
         params: {
           part: "snippet",
-          maxResult: 25,
+          maxResults: 50,
           type: "video",
           q: keyword,
         },
@@ -58,7 +58,7 @@ export default class YoutubeAPI {
       .videos({
         params: {
           part: "snippet",
-          maxResults: 25,
+          maxResults: 50,
           chart: "mostPopular",
         },
       })
