@@ -24,6 +24,12 @@
 
 <br/>
 
+## 배포 주소
+
+https://youtube-prac-i95aq7gbs-betterplaywon.vercel.app/
+
+<br/>
+
 ## 💻 설치 방법
 
     yarn install
