@@ -8,7 +8,7 @@ export default class YoutubeAPI {
     // });
   }
 
-  async relatedVideos(id) {
+  async relatedVideos(id: string) {
     return this.apiClient
       .search({
         params: {
@@ -23,7 +23,7 @@ export default class YoutubeAPI {
       );
   }
 
-  async channelImageURL(channelId) {
+  async channelImageURL(channelId: string) {
     return this.apiClient
       .channel({
         params: {
@@ -34,11 +34,11 @@ export default class YoutubeAPI {
       .then(res => res.data.items[0].snippet.thumbnails.default.url);
   }
 
-  async search(keyword) {
+  async search(keyword: string) {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
   }
 
-  async #searchByKeyword(keyword) {
+  async #searchByKeyword(keyword: string) {
     return this.apiClient
       .search({
         params: {
