@@ -8,13 +8,15 @@ const SearchHeader = () => {
   const [text, setText] = useState<string>("");
   const { keyword } = router.query;
 
-  const handleSubmit = e => {
+  const handleSubmit = (e: { preventDefault: () => void }) => {
     e.preventDefault();
     router.push(`/video/${text}`);
   };
 
   useEffect(() => {
-    setText(keyword || "");
+    if (typeof keyword === "string") {
+      setText(keyword || "");
+    }
   }, [keyword]);
 
   return (

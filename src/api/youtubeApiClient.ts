@@ -2,6 +2,7 @@ import axios from "axios";
 
 export default class YoutubeApiClient {
   httpClient: any;
+
   constructor() {
     this.httpClient = axios.create({
       baseURL: "https://www.googleapis.com/youtube/v3",
@@ -9,15 +10,15 @@ export default class YoutubeApiClient {
     });
   }
 
-  async search(params) {
+  async search(params: {}) {
     return this.httpClient.get("search", params);
   }
 
-  async videos(params) {
+  async videos(params: {}) {
     return this.httpClient.get("videos", params);
   }
 
-  async channel(params) {
+  async channel(params: {}) {
     return this.httpClient.get("channels", params);
   }
 

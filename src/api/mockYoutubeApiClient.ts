@@ -3,7 +3,7 @@ import axios from "axios";
 export default class MockYoutubeApiClient {
   constructor() {}
 
-  async search({ params }) {
+  async search({ params }: any) {
     const isRelated = params.relatedTovideoId;
     return axios.get(`/videosData/${isRelated ? "related" : "search"}.json`);
   }

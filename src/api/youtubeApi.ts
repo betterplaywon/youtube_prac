@@ -1,6 +1,6 @@
 export default class YoutubeAPI {
   apiClient: any;
-  constructor(apiClient) {
+  constructor(apiClient: any) {
     this.apiClient = apiClient;
     // this.httpClient = axios.create({
     //   baseURL: "https://www.googleapis.com/youtube/v3",
@@ -18,8 +18,11 @@ export default class YoutubeAPI {
           relatedTovideoId: id,
         },
       })
-      .then(res =>
-        res.data.items.map(item => ({ ...item, id: item.id.videoId })),
+      .then((res: { data: { items: any[] } }) =>
+        res.data.items.map((item: { id: { videoId: any } }) => ({
+          ...item,
+          id: item.id.videoId,
+        })),
       );
   }
 
@@ -31,7 +34,13 @@ export default class YoutubeAPI {
           id: channelId,
         },
       })
-      .then(res => res.data.items[0].snippet.thumbnails.default.url);
+      .then(
+        (res: {
+          data: {
+            items: { snippet: { thumbnails: { default: { url: any } } } }[];
+          };
+        }) => res.data.items[0].snippet.thumbnails.default.url,
+      );
   }
 
   async search(keyword: string) {
@@ -48,8 +57,11 @@ export default class YoutubeAPI {
           q: keyword,
         },
       })
-      .then(res =>
-        res.data.items.map(item => ({ ...item, id: item.id.videoId })),
+      .then((res: { data: { items: any[] } }) =>
+        res.data.items.map((item: { id: { videoId: any } }) => ({
+          ...item,
+          id: item.id.videoId,
+        })),
       );
   }
 
@@ -62,6 +74,6 @@ export default class YoutubeAPI {
           chart: "mostPopular",
         },
       })
-      .then(res => res.data.items);
+      .then((res: { data: { items: any } }) => res.data.items);
   }
 }
