@@ -2,7 +2,7 @@
 
 # Youtube
 
-### Youtube의 open API를 활용해 개발해보았습니다.
+### Youtube의 open API를 활용한 Youtube 서비스 개발
 
 <br/>
 
